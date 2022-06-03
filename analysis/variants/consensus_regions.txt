@@ -1,0 +1,4 @@
+57% of sites are closer to a donor than an acceptor site
+24% of donor sites are in consensus motif
+22% of acceptor sites are in consensus motif
+23% of all sites are in consensus motif

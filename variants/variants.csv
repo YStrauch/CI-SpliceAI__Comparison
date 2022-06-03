@@ -1,0 +1,1317 @@
+ID,#CHROM,POS,REF,ALT,strand,SpliceAffecting,Origin,Observation,Comments,AL,DL,AG,DG,effect_type
+NM_003036.3:c.1211+2T>G,1,2303402,T,G,+,1,Wai et al.,Intronic Alternative 5' Splice Site,,,,,,alternative donor
+NM_004565.2:c.677G>A,1,10627363,G,A,+,1,Maddirevula et al.,Skipping; r.587_678del;p.(Ala196Glufs*103),,10627272,10627363,,,skip
+NM_014874.3:c.838C>T,1,12001422,C,T,+,0,Wai et al.,,,,,,,normal
+NM_007272.2:c.133-3C>A,1,15440490,C,A,+,1,Leman et al.,exon 3 skipping of strong intensity,,15440493,15440590,,,skip
+NM_007272.2:c.640-12G>A,1,15445585,G,A,+,1,Leman et al.,use of a de novo splice site 10 nt upstream from 3' ss,Strauch: Changed observation to 10nt ustream (from 11nt upsteam in the original publication),15445597,,15445587,,alternative acceptor
+NM_005529:c.11208-7G>A,1,21831803,C,T,-,1,Maddirevula et al.,Skipping; r.11208_11209insGAGCA:p.(Phe3737Glufs*26),,21831796,21831652,,,skip
+NM_016124.4:c.150T>C,1,25284574,T,C,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.334A>G,1,25284758,A,G,+,1,Leman et al.,exon 2 skipping of low intensity and use of cryptic splice site at 20 nt upstream from 5' ss,,,,,,multiple
+NM_016124.4:c.335G>C,1,25284759,G,C,+,1,Leman et al.,exon 2 skipping and use of cryptic splice site at 20 nt upstream from 5' ss,,,,,,multiple
+NM_016124.4:c.335G>T,1,25284759,G,T,+,1,Leman et al.,exon 2 skipping of strong intensity and use of cryptic splice site at 20 nt upstream from 5' ss,,,,,,multiple
+NM_016124.4:c.335+1G>A,1,25284760,G,A,+,1,Leman et al.,exon 2 skipping of strong intensity and use of cryptic splice site at 20 nt upstream from 5' ss,,,,,,multiple
+NM_016124.4:c.336-2A>G,1,25290639,A,G,+,1,Leman et al.,exon 2 skipping of low intensity and use of two cryptic splice site at 28 nt upstream and 21 nt downstream from 3' ss,,,,,,multiple
+NM_016124.4:c.336-2delA,1,25290639,AG,G,+,1,Leman et al.,exon 2 skipping of low intensity and use of cryptic splice site at 28 nt upstream (In-frame) from 3' ss,,,,,,multiple
+NM_016124.4:c.336-1G>A,1,25290640,G,A,+,1,Leman et al.,exon 2 skipping of low intensity and use of two cryptic splice site at 28 nt upstream and 21 nt downstream from 3' ss,,,,,,multiple
+NM_016124.4:c.485A>G,1,25290790,A,G,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.486+1G>A,1,25290792,G,A,+,1,Leman et al.,exon 3 skipping of strong intensity and use of cryptic splice site 48 nt upstream from 5' ss,,,,,,multiple
+NM_016124.4:c.486+2T>A,1,25290793,T,A,+,1,Leman et al.,exon 3 skipping of strong intensity and use of cryptic splice site 48 nt upstream from 5' ss,,,,,,multiple
+NM_016124.4:c.486+3G>C,1,25290794,G,C,+,1,Leman et al.,exon 3 skipping of low intensity,,25290641,25290791,,,skip
+NM_016124.4:c.486+5G>A,1,25290796,G,A,+,1,Leman et al.,exon 3 skipping of strong intensity,,25290641,25290791,,,skip
+NM_016124.4:c.634G>C,1,25301093,G,C,+,1,Leman et al.,use of two cryptic splice site at 11- and 16 nt downstream from 5' ss,,,,,,alternative donor
+NM_016124.4:c.634G>T,1,25301093,G,T,+,1,Leman et al.,use of two cryptic splice site at 11- and 16 nt downstream from 5' ss,,,,,,alternative donor
+NM_016124.4:c.634+1G>A,1,25301094,G,A,+,1,Leman et al.,exon 4 skipping of low intensity and use of two cryptic splice site at 11- and 16 nt downstream from 5' ss,,,,,,multiple
+NM_016124.4:c.634+2T>A,1,25301095,T,A,+,1,Leman et al.,exon 4 skipping of low intensity and use of two cryptic splice site at 11- and 16 nt downstream from 5' ss,,,,,,multiple
+NM_016124.4:c.634+5G>A,1,25301098,G,A,+,1,Leman et al.,use of two cryptic splice site at 11- and 16 nt downstream from 5' ss,,,,,,alternative donor
+NM_016124.4:c.634+5G>T,1,25301098,G,T,+,1,Leman et al.,use of two cryptic splice site at 11- and 16 nt downstream from 5' ss,,,,,,alternative donor
+NM_016124.4:c.635-2A>G,1,25301518,A,G,+,1,Leman et al.,exon 5 skipped,,25301520,25301686,,,skip
+NM_016124.4:c.635G>T,1,25301520,G,T,+,1,Leman et al.,exon 5 skipping of low intensity,,25301520,25301686,,,skip
+NM_016124.4:c.636C>T,1,25301521,C,T,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.800A>T,1,25301685,A,T,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.801+1G>A,1,25301687,G,A,+,1,Leman et al.,exon 5 skipped,,25301520,25301686,,,skip
+NM_016124.4:c.938C>T,1,25303458,C,T,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.939G>A,1,25303459,G,A,+,1,Leman et al.,exon 6 skipping of strong intensity,,25303322,25303459,,,skip
+NM_016124.4:c.939+2T>A,1,25303461,T,A,+,1,Leman et al.,exon 6 skipping of strong intensity and use of two cryptic splice sites at 95- and 99 nt downstream from 5' ss,,,,,,multiple
+NM_016124.4:c.940-4A>C,1,25306592,A,C,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.941G>T,1,25306597,G,T,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.1073T>C,1,25306729,T,C,+,0,Leman et al.,,,,,,,normal
+NM_016124.4:c.1073+2T>C,1,25306731,T,C,+,1,Leman et al.,exon 7 skipping of strong intensity,,25306596,25306729,,,skip
+NM_016124.4:c.1074-2A>C,1,25316998,A,C,+,1,Leman et al.,exon 8 skipping of strong intensity and use of  cryptic splice site at 13 nt downstream from 3' ss,,,,,,multiple
+NM_016124.4:c.1152A>C,1,25317078,A,C,+,1,Leman et al.,exon 8 skipping of strong intensity,,25317000,25317079,,,skip
+NM_016124.4:c.1153+1G>A,1,25317080,G,A,+,1,Leman et al.,exon 8 skipped,,25317000,25317079,,,skip
+NM_016124.4:c.1154-8T>A,1,25321881,T,A,+,1,Leman et al.,exon 9 skipping of low intensity,,25321889,25321962,,,skip
+NM_016124.4:c.1154G>C,1,25321889,G,C,+,1,Leman et al.,exon 9 skipping of low intensity,,25321889,25321962,,,skip
+NM_016124.4:c.1226A>T,1,25321961,A,T,+,1,Leman et al.,exon 9 skipping of low intensity,,25321889,25321962,,,skip
+NM_016124.4:c.1227G>A,1,25321962,G,A,+,1,Leman et al.,exon 8 skipping of strong intensity,Strauch: Excluded from variant effect analysis - annotation doesn't match neighbouring effect annotations,,,,,skip
+NM_006015.4:c.4101+1G>T,1,26773899,G,T,+,1,MutSpliceDB,Intron inclusion between exons 17 & 18,,,,,,retention
+NM_001024732.1:c.322+2T>G,1,29206760,A,C,-,1,Maddirevula et al.,Skipping; r.324_325insAGGAACCCACAGGG:p.(Asp109Argfs*30); r.179_322del:p.(Thr61_Gly108del),,29206905,29206762,,,skip
+NM_022356.3:c.1839-2A>C,1,42747800,T,G,-,1,Maddirevula et al.,Skipping; r.1839_1914del:p.(Ser613Argfs*24),,42747798,42747723,,,skip
+NM_001146289.1:c.1224-80G>A,1,42755070,C,T,-,1,Wai et al.,"Intronic Alternative 5' Splice Site, Intronic Alternative 3' Splice Site, Intron Retention",,,,,,multiple
+NM_001262.2:c.129+1G>T,1,50970498,G,T,+,1,MutSpliceDB,Intron inclusion between exons 2 & 3,,,,,,retention
+NM_001172818.1:c.300+1G>A,1,63623761,G,A,+,1,Maddirevula et al.,Skipping; r.1_300del:p.?,Strauch: Excluded from variant effect analysis - exon is first in transcript,,,,,skip
+NM_000350.2:c.5584+6T>C,1,94011256,A,G,-,1,Ellingford et al. [100K],exon skip: NM_000350.2:r.5461_5584del,Strauch: Assumed to be skipping exon 39,94011385,94011262,,,skip
+NM_213653.3:c.98-6C>G,1,146019740,G,C,-,0,Leman et al.,,,,,,,normal
+NM_005850.4:c.417C>T,1,149926665,G,A,-,1,Wai et al.,"Exonic Alternative 5' Splice Site, Exonic Alternative 3' Splice Site",,,,,,alternative acceptor
+NM_019032.5:c.2559G>A,1,150558649,G,A,+,1,Wai et al.,Upstream Skipped Exon,,150558473,150558649,,,skip
+NM_170707.4:c.51C>T,1,156114969,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.58G>A,1,156114976,C,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:n.63C>T,1,156114981,G,A,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.142C>G,1,156115060,C,G,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.147G>A,1,156115065,G,A,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.150C>T,1,156115068,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.158A>T,1,156115076,A,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.261T>C,1,156115179,T,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.282-6A>T,1,156115194,T,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.287C>G,1,156115205,C,G,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.346G>C,1,156115264,C,G,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.356G>C,1,156115274,G,C,+,1,Ito et al. [Clinical],P-Val:3.67E-06,,,,,,unknown disruption
+NM_170707.4:c.357-19T>C,1,156130598,T,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.480C>T,1,156130740,C,T,+,1,Ito et al. [ExAC only],P-Val:2.46E-07,,,,,,unknown disruption
+NM_170707.4:c.496C>T,1,156130756,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.513G>A,1,156130773,G,A,+,1,Ito et al. [Clinical],P-Val:1.90E-41,,,,,,unknown disruption
+NM_170707.4:c.514-10T>C,1,156134393,T,C,+,0,Ito et al. [ExAC Only],P-Val:0.06508031,,,,,,normal
+NM_170707.4:c.556G>A,1,156134445,G,A,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.568C>T,1,156134457,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.573G>A,1,156134462,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.575A>G,1,156134464,A,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.608A>G,1,156134497,A,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.629T>G,1,156134518,T,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.639+5G>C,1,156134533,G,C,+,0,Ito et al. [ExAC only],P-Val:0.00668,,,,,,normal
+NM_170707.4:c.640-52C>T,1,156134753,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.640-11A>C,1,156134794,A,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.640-10A>G,1,156134795,A,G,+,1,Ito et al. [Clinical],P-Val:4.44E-55,,,,,,unknown disruption
+NM_170707.4:c.640-9C>T,1,156134796,C,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.643C>G,1,156134808,C,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.644T>C,1,156134809,T,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.645G>C,1,156134810,G,C,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.681G>A,1,156134846,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.703C>G,1,156134868,C,G,+,0,Ito et al. [ExAC only],P-Val:0.0444,,,,,,normal
+NM_170707.4:c.768G>A,1,156134933,G,A,+,1,Ito et al. [Clinical],P-Val:0.000718,,,,,,unknown disruption
+NM_170707.4:c.810+4C>A,1,156134979,C,A,+,0,Ito et al. [ExAC Only],P-Val:0.814194,,,,,,normal
+NM_170707.4:c.810+29G>T,1,156135004,G,T,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.810+32T>C,1,156135007,T,C,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.810+36C>T,1,156135011,C,T,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.811-8C>T,1,156135179,C,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.884C>T,1,156135260,C,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.895A>G,1,156135271,A,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.897C>G,1,156135273,C,G,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.936+12C>T,1,156135324,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.936+19C>T,1,156135331,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.937-7C>G,1,156135894,C,G,+,1,Ito et al. [Clinical],P-Val:3.79E-07,,,,,,unknown disruption
+NM_170707.4:c.937-6C>T,1,156135895,C,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:n.949C>T,1,156135913,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.954G>A,1,156135918,G,A,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.985C>A,1,156135949,C,A,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1146C>T,1,156136110,C,T,+,1,Ito et al. [Clinical],P-Val:1.34E-41,,,,,,unknown disruption
+NM_170707.4:c.1157+3G>A,1,156136124,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1157+6C>G,1,156136127,C,G,+,0,Ito et al. [Clinical],P-Val:0.08364655,,,,,,normal
+NM_170707.4:c.1184C>T,1,156136240,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1187A>T,1,156136243,A,T,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1223A>C,1,156136279,A,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1227A>G,1,156136283,A,G,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1237G>A,1,156136293,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1237G>T,1,156136293,G,T,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1312G>A,1,156136368,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1315C>T,1,156136371,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1317C>A,1,156136373,C,A,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1330G>A,1,156136386,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1358G>A,1,156136414,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1376A>G,1,156136432,A,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1381-5G>A,1,156136916,G,A,+,1,Ito et al. [Clinical],P-Val:3.35E-22,,,,,,unknown disruption
+NM_170707.4:c.1381-4G>A,1,156136917,G,A,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1381G>T,1,156136921,G,T,+,1,Ito et al. [Clinical],P-Val:0.000288,,,,,,unknown disruption
+NM_170707.4:c.1442A>G,1,156136982,A,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1445G>A,1,156136985,G,A,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1445G>T,1,156136985,G,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1482G>A,1,156137022,G,A,+,0,Ito et al. [ExAC only],P-Val:0.495,,,,,,normal
+NM_170707.4:c.1487C>T,1,156137027,C,T,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1488G>A,1,156137028,G,A,+,0,Ito et al. [Clinical],P-Val:0.0118,,,,,,normal
+NM_170707.4:c.1488+6T>G,1,156137034,T,G,+,0,Ito et al. [Clinical],P-Val:0.00143,,,,,,normal
+NM_170707.4:c.1489-9C>T,1,156137104,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1601C>G,1,156137225,C,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1602T>C,1,156137226,T,C,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1609-3C>G,1,156137651,C,G,+,1,Ito et al. [Clinical],P-Val:1.25E-16,,,,,,unknown disruption
+NM_170707.4:c.1664A>G,1,156137709,A,G,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1711A>C,1,156138500,A,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1812A>T,1,156138601,A,T,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1821G>A,1,156138610,G,A,+,1,Ito et al. [Clinical],P-Val:1.64E-30,,,,,,unknown disruption
+NM_170707.4:c.1822G>A,1,156138611,G,A,+,1,Ito et al. [Clinical],P-Val:2.51E-26,,,,,,unknown disruption
+NM_170707.4:c.1824C>T,1,156138613,C,T,+,1,Ito et al. [Clinical],P-Val:4.19E-23,,,,,,unknown disruption
+NM_170707.4:c.1837T>C,1,156138626,T,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1857T>C,1,156138646,T,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1870C>T,1,156138659,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1873A>C,1,156138662,A,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1873A>T,1,156138662,A,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:c.1874G>C,1,156138663,G,C,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1889G>T,1,156138678,G,T,+,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_170707.4:n.1903C>T,1,156138692,G,A,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1944G>A,1,156138733,G,A,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_170707.4:c.1968G>A,1,156138757,G,A,+,1,Ito et al. [Clinical],P-Val:1.84E-07,,,,,,unknown disruption
+NM_170707.4:c.1968+37C>T,1,156138794,C,T,+,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_170707.4:c.1968+38G>A,1,156138795,G,A,+,0,Ito et al. [ExAC only],P-Val:1,,,,,,normal
+NM_001193644.1:c.161C>T,1,160283549,G,A,-,1,Maddirevula et al.,Skipping; r.71_180del:p.(Ser24Argfs*18),Strauch: Removed annotation 'p.(Ser54Leu)' from ID,160283639,160283530,,,skip
+NM_014283.3:c.1157+1G>A,1,172573999,G,A,+,1,Maddirevula et al.,Skipping; r.1050_1157del:p.(Trp350*),,172573891,172573998,,,skip
+NM_018136.4:c.3742-1G>C,1,197122044,C,G,-,1,Maddirevula et al.,Skipping; r.3739_3775del:p.(Lys1247Glyfs*9),,197122043,197121915,,,skip
+NM_014875.2:c.4071G>A,1,200565069,C,T,-,1,Maddirevula et al. [PM28892560],Skipping; r.3887_4071del:p.(Leu1296Trpfs*46),,200565253,200565069,,,skip
+NM_016121.3:c.1036_1073del,1,215602099,CCCTTGCGAATGAAAGATAATGATCTTCTTGTAACTGAA,A,+,1,Maddirevula et al.,Skipping; r.1036_1073del:p.(Pro346Thrfs*4),Strauch: Removed annotation ':p.(Pro346Thrfs*4)' from ID,215602085,215602201,,,skip
+NM_206933.2:c.14343+36C>G,1,215650556,G,C,-,0,Ellingford et al. [100K],,,,,,,normal
+NM_014236.3:c.569-3T>G,1,231265290,T,G,+,1,Maddirevula et al. [PM20681997],Skipping; r.570_697del:p.(Asp190Glufs*7),,231265293,231265420,,,skip
+NM_002508.2:c.3385+1G>A,1,235980495,C,T,-,1,Maddirevula et al. [PM25558065],Skipping; r.3380_3385del:p.(Asp1127_Ala1128del),,235980653,235980496,,,skip
+NM_006642.2:c.741-152G>A,1,243307837,G,A,+,1,Maddirevula et al.,Retention; r.740_741ins741-202_741-1;p.Arg247Serfs*23,,,,,,retention
+NM_001011.3:c.507+3A>G,2,3580263,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000251.2:c.860_868del,2,47414336,GACAGTTTGA,A,+,0,Wai et al.,,Strauch: Original position annotation is 1bp off,,,,,normal
+NM_000251.2:c.1276+1G>A,2,47429942,G,A,+,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000251.2:c.2211-1G>A,2,47478271,G,A,+,1,MutSpliceDB,Intron inclusion between exons 13 & 14,,,,,,retention
+NM_000179.2:c.806C>G,2,47798789,C,G,+,0,Wai et al.,,,,,,,normal
+NM_000179.2:c.3040_3042del,2,47801023,AAGT,T,+,0,Wai et al.,,Strauch: Original position annotation is 1bp off,,,,,normal
+NM_000179.2:c.3416G>A,2,47803663,G,A,+,0,Wai et al.,,,,,,,normal
+NM_000179.2:c.3439-16C>T,2,47804894,C,T,+,0,Wai et al.,,,,,,,normal
+NM_015910.5:c.2078+1G>T,2,63174669,C,A,-,1,Maddirevula et al.,Skipping; r.1916_2078del:p.(Glu639Aspfs*3),,63174832,63174670,,,skip
+NM_004082.4:c.414+1G>A,2,74376741,C,T,-,0,Wai et al.,Normal (constitutive triple Skipped Exon),,,,,,normal
+NM_006343.2:c.1604+2T>G,2,111997478,T,G,+,1,Maddirevula et al.,Skipping; r.1451_1604del:p.(Trp485Metfs*10),,111997323,111997476,,,skip
+NM_006343.2:c.2189+1G>T,2,112019523,G,T,+,1,Maddirevula et al. [PM17301963 ],Skipping; r.2080_2189del:p.(His694Valfs*4),,112019413,112019522,,,skip
+NM_006343.2:c.2486+6T>A,2,112022400,T,A,+,1,Ellingford et al. [100K],"cryptic splice site, exon truncation & intron inclusion: NM_006343.2:r.2350_2486delins2454_2486+111",,,,,,multiple
+NM_001040142.1:c.2919+3A>G,2,165344914,A,G,+,1,Ellingford et al. [100K],"exon skip: NM_001040142.1:r.2563_2919del; cryptic splice site, exon truncation: NM_001040142.1:r.2563_2710del",,,,,,multiple
+NM_002977.3:c.2311-14T>G,2,166278327,A,C,-,1,Maddirevula et al.,Skipping; r.2311_2484del:p.(Val771_Leu828del),,166278313,166278140,,,skip
+NM_014168.2:c.224+1G>A,2,169821942,C,T,-,1,Maddirevula et al.,Skipping; r.110_224del:p.(Ala37Glyfs*8),Strauch: Removed annotation 'p. (Ala37Glyfs*8) ' from ID,169822057,169821943,,,skip
+NM_025000.3:c.1091+6T>G,2,171473981,T,G,+,1,Maddirevula et al. [PM19026396],Skipping; r.1092_1182del:p.(Val365Metfs*14),,171473866,171473975,,,skip
+NM_000090.3:c.1815+5G>A,2,188997223,G,A,+,0,Wai et al.,,,,,,,normal
+NM_000090.3:c.3133G>A,2,189006384,G,A,+,0,Wai et al.,,,,,,,normal
+NM_014585.5:c.387C>T,2,189572846,G,A,-,0,Leman et al.,,,,,,,normal
+NM_012086.4:c.1390+3A>G,2,196778893,T,C,-,1,Maddirevula et al. [PM28940097],Skipping; r.1219_1500del p.(Pro407_Gln500del),,196779067,196778896,,,skip
+NM_001044385.2:c.869+1G>A,2,201629229,C,T,-,1,Maddirevula et al. [PM22693042 ],Skipping; r.678_869del:p.(Met227_Arg290del),,201629421,201629230,,,skip
+NM_001079866.1:c.441C>T,2,218661526,C,T,+,1,Maddirevula et al.,Skipping; r.436_460delGTTTTCTTCAACATCCTGGAGGAAG:p.(Val146Leufs*4),Strauch: Removed annotation '(p.Phe147=)' from ID,218661406,218661545,,,skip
+NM_000784.3:c.1263+1G>A,2,218814459,G,A,+,1,Maddirevula et al.,Skipping; r.1185_1263del:p.(Leu396Profs*29),,218814380,218814458,,,skip
+NM_001144889.1:c.1167+4C>T,2,219165165,G,A,-,1,Maddirevula et al.,Skipping; r.914_1167del:p.(Glu306Trpfs*57),,219165422,219165169,,,skip
+NM_025139.3:c.51+5G>T,2,231206294,G,T,+,1,Maddirevula et al.,Skipping; r.1_51del:p.(Met1_Glu17del),Strauch: Removed annotation 'p.?' from ID,231206198,231206289,,,skip
+NM_025139.6:c.1027C>T,2,231262306,C,T,+,1,Maddirevula et al.,Skipping; r.1_135del:p.?,Strauch: Removed annotation '(p.Arg343Cys)' from ID,231262306,231262398,,,skip
+NM_000551.3:c.340+2T>C,3,10142189,T,C,+,1,MutSpliceDB,Intron inclusion between exons 1 & 2,,,,,,retention
+NM_000551.3:c.463+2T>C,3,10146638,T,C,+,1,MutSpliceDB,Intron inclusion between exons 2 & 3,,,,,,retention
+NM_018297.3:c.930C>T,3,25737407,G,A,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000249.2:c.80G>A,3,36993627,G,A,+,0,Wai et al.,,,,,,,normal
+NM_000249.2:c.122A>G,3,36996624,A,G,+,1,Wai et al.,Exonic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_000249.2:c.935A>C,3,37020360,A,C,+,0,Wai et al.,,,,,,,normal
+NM_000249.2:c.1989+6T>G,3,37048615,T,G,+,0,Wai et al.,,,,,,,normal
+NM_001042646.1:c.287-2A>G,3,42176812,A,G,+,1,Maddirevula et al.,Skipping; r.287_363del:p.(Leu96Glnfs*46),,42176814,42176890,,,skip
+NM_003074.3:c.2376+2T>C,3,47638723,A,G,-,1,MutSpliceDB,Intron inclusion between exons 22 & 23,,,,,,retention
+NM_177939.2:c.888-3C>A,3,49004858,C,A,+,1,Maddirevula et al.,Skipping; r.889_1073+1del;p.(Arg296_Arg358delinsSer),,49004861,49005046,,,skip
+NM_001457.3:c.6091+1G>T,3,58148853,G,T,+,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_020754.2:c.539+1G>A,3,119382400,G,A,+,1,Maddirevula et al.,Skipping; r.433_540del:p.(Thr145_Arg180del),,119382292,119382399,,,skip
+NM_052985.3:c.3039+4A>G,3,129507766,A,G,+,1,Wai et al.,Upstream Skipped Exon,,129507668,129507762,,,skip
+NM_153240.4:c.2694-2_2694-1delAG,3,132689264,CTG,G,-,1,Maddirevula et al.,Skipping; r.2694_2883del;p.(Gly899Profs*2),,132689263,132689074,,,skip
+NM_152773.4:c.317+4A>T,3,196306939,T,A,-,1,Maddirevula et al.,Skipping; r.248_317del:p.(Glu83Alafs*21),,196307012,196306943,,,skip
+NM_000283.3:c.2130-15G>A,4,664866,G,A,+,1,Ellingford et al. [100K],single exon skip: NM_000283.3:r.2130_2193del; dual exon skip: NM_000283.3:r.2130_2268del,,,,,,skip
+NM_153365.2:c.846+2_846+3insT,4,16186778,T,TA,-,1,Maddirevula et al. [PM27878435],Skipping; r.712_846del:p.?,,16186878,16186781,,,skip
+NM_001253835.1:c.830-1G>A,4,57032426,C,T,-,1,Maddirevula et al. [PM21835307],Skipping; r.830_849del;829_830in829+7:p.?,Strauch: Excluded from variant effect analysis - first exon of transcript,,,,,skip
+NM_001163435.1:c.1897+1G>A,4,106194717,C,T,-,1,Maddirevula et al.,Skipping; r.1861_1897del:p.(Leu621Metfs*28),,106194754,106194718,,,skip
+NM_015312.2:c.11250-1G>A,4,122331325,G,A,+,1,Maddirevula et al. [PM28749478],Skipping; r.11250_11465del:p.(His3751_Arg3822del),,122331326,122331541,,,skip
+NM_152778.2:c.198+2T>C,4,127949802,A,G,-,1,Maddirevula et al.,Skipping; r.153_196del:p.(Gly52_Lys66del),,127949847,127949804,,,skip
+NM_144643.2:c.290+2T>C,4,129039039,A,G,-,1,Maddirevula et al. [PM24285566],Skipping; r.235_290del:p.(Lys79Valfs*4),,129039096,129039041,,,skip
+NM_023073.3:c.8471-1G>C,5,37139371,C,G,-,1,Maddirevula et al.,Skipping; r.8300_8470del:p.(Val2767_Pro2823del),,37139370,37139340,,,skip
+NM_000521.3:c.771+5G>C,5,74705325,G,C,+,1,Maddirevula et al.,Skipping; r.670_771del:p.(Asp224_Lys257del),,74705219,74705320,,,skip
+NM_000521.3:c.1169+3_1169+10delAAGTTGTT,5,74716676,AAGTTGTTT,T,+,1,Maddirevula et al.,Skipping; r.1083_1169del:p.(Glu362_Lys390del),,74716587,74716673,,,skip
+NM_002890.2:c.2011+6T>G,5,87374922,T,G,+,1,Wai et al.,"Upstream Skipped Exon, Double Skipped Exon upstream",,,,,,skip
+NM_002397.4:c.835-9T>G,5,88729356,A,C,-,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_002397.4:c.638-2A>G,5,88731903,T,C,-,1,Wai et al.,Downstream Skipped Exon,,88731901,88731729,,,skip
+NM_001127511.2:c.250+2T>C,5,112766412,T,C,+,1,MutSpliceDB,Intron inclusion between exons 2 & 3,,,,,,retention
+NM_001354896.1:c.295C>T,5,112767263,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000038.5:c.423-5_423-3delAAT,5,112775624,AATA,A,+,1,Maddirevula et al. [PM25676610  ],Skipping; r.423_531del:p.(Arg141Serfs*8),,112775629,112775737,,,skip
+NM_000038.5:c.1549-8A>G,5,112827921,A,G,+,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_000414.3:c.302+3_302+18delGAGTATTTCTTTTTCAinsTTTTTTAAAAAGTATATACTTTCCTCCTTTTACCCTATACAACATTGATT,5,119475730,GAGTATTTCTTTTTCA,TTTTTTAAAAAGTATATACTTTCCTCCTTTTACCCTATACAACATTGATT,+,1,Maddirevula et al. [PM20681997],Skipping; r.281_302del:p.(Asp94Glufs*3),,119475706,119475727,,,skip
+NM_001999.3:c.4594+3A>G,5,128318876,T,C,-,1,Wai et al.,"Upstream Skipped Exon, Double Skipped Exon upstream and downstream",,,,,,skip
+NM_024715.3:c.103+1G>A,5,134874531,G,A,+,1,Maddirevula et al.,Skipping; r.1_103del:p.?,Strauch: Excluded from variant effect analysis - first exon of transcript,,,,,skip
+NM_022464.4:c.1030-9G>A,5,138947482,C,T,-,1,Maddirevula et al.,Skipping; r.1032_1033insATGGCAG:p.(Phe345Metfs*9),Strauch: Removed annotation 'p.Phe345Alafs*9' from ID; Strauch: Excluded from variant effect analysis - first exon of transcript,,,,,skip
+NM_003118.3:c.57+1G>C,5,151676131,C,G,-,1,Maddirevula et al. [PM27023906],Skipping; r.1_57del:p.?,,151676201,151676132,,,skip
+NM_016614.2:c.807+1G>T,6,24652982,C,A,-,1,Maddirevula et al.,Skipping; r.640_807del:p.(Asn214_Glu269del),,24653153,24652983,,,skip
+NM_000410.3:c.76+2T>C,6,26087518,T,C,+,1,Leman et al.,Intron 1 retention,,,,,,retention
+NM_080680.2:c.2682G>A,6,33173502,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000389.4:c.446-3C>G,6,36685748,C,G,+,1,MutSpliceDB,Intron inclusion between exons 2 & 3,,,,,,retention
+NM_006586.3:c.496-5_496-4delAC,6,42938085,AAC,C,+,1,Maddirevula et al.,Skipping; r.496_613del:p.(Cys166Valfs*83),,42938090,42938207,,,skip
+NM_014780.4:c.2863-1G>C,6,43045403,C,G,-,1,Maddirevula et al. [PM22325252],Skipping; r.2863_2893del:p.(Gly955Argfs*3);r.2863_3038del:p.(Gly955Argfs*13),,43045402,43045227,,,skip
+NM_019096.3:c.1236+1G>A,6,43623932,C,T,-,1,Maddirevula et al.,Skipping; r.1101_1236del:p.(Asn367Lysfs*43),,43624068,43623933,,,skip
+NM_001142800.1:c.6571+4558A>G,6,64077298,T,C,-,0,Ellingford et al. [100K],,,,,,,normal
+NM_012434:c.1111+1G>A,6,73615314,C,T,-,1,Maddirevula et al.,Skipping; r.979_1111del:p.(Asn327Glufs*2),,73615447,73615315,,,skip
+NM_152730.4:c.1372+1G>T,6,121292052,C,A,-,1,Maddirevula et al. [PM24285566 ],Skipping; r.1232_1372del:p.(Arg411_Gly458delinsSer),,121292193,121292053,,,skip
+NM_000426.3:c.3924+2T>C,6,129315952,T,C,+,1,Maddirevula et al.,Skipping; r.3736_3924del:p.(Leu1246_Glu1308del),,129315762,129315950,,,skip
+NM_006208.2:c.241G>T,6,131847776,G,T,+,1,Wai et al.,Downstream Skipped Exon,,131847776,131847848,,,skip
+NM_020732.3:c.3025G>T,6,157167185,G,T,+,1,MutSpliceDB,"Intron inclusion between exons 10 & 11, or exon 10 skipping",,,,,,multiple
+NM_000535.5:c.2174+1G>A,7,5982823,C,T,-,1,MutSpliceDB,Intron inclusion between exons 12 & 13,,,,,,retention
+NM_001101426.3:c.790-1G>C,7,16301467,C,G,-,1,Maddirevula et al.,Skipping; r.790_835del:p.(Val264Argfs*9),,16301466,16301421,,,skip
+NM_001277115.1:c.6547-963G>A,7,21706736,G,A,+,1,Ellingford et al. [100K],"cryptic splice site, pseudoexoninclusion: NM_001277115.1:r.6546_6547ins6547-999_6547-962",,,,,,multiple
+NM_017946.3:c.197+5_197+8delGTAA,7,30026304,TTACT,T,-,1,Maddirevula et al.,Skipping; r.197_198insgtaattatgccccgcag:p.(His67*),Strauch: Excluded from variant effect analysis - last exon of transcript,,,,,skip
+NM_000168.5:c.2432-1G>A,7,41966642,C,T,-,1,Maddirevula et al. [PM28224613],Retention; r.2432_2333ins945:p.(Thr812Glu+18*),Strauch: Removed annotation 'p.(Thr812Glu+18*)' from ID,,,,,retention
+NM_001129.3:c.1630+1G>A,7,44111058,G,A,+,1,Maddirevula et al.,Skipping; r.1609_1630del:p.(Val537Leufs*31),,44110913,44111057,,,skip
+NM_016038.2:c.258+2T>C,7,66994210,A,G,-,1,Maddirevula et al.,Retention; r.129_258del:p.(Glu44Phefs*2),,,,,,retention
+NM_000443.3:c.286+335A>G,7,87462423,T,C,-,1,Maddirevula et al.,Retention; r.286_419del:p.(Val96Glyfs*10),,,,,,retention
+NM_133436.3:c.1137+1G>A,7,97855352,C,T,-,1,Maddirevula et al.,Aberrant band; r.1032_1138del:p.(Met345Serfs*4),,,,,,unknown disruption
+NM_003227.3:c.1473G>A,7,100628224,C,T,-,1,Leman et al.,use of cryptic site 42 nt downstream from 5' ss,Strauch: Variant effect changed to 5'+42 (was +43 in the original publication) ,,100628224,,100628182,alternative donor
+NM_001161520.1:c.1120-12T>A,7,107324533,A,T,-,1,Maddirevula et al.,Skipping; r:1120del:p.(Asp374Metfs*32),Strauch: Removed annotation 'p.(Asp374Phefs*40)' from ID,107324521,107324440,,,skip
+NM_002291.3:c.1985+5G>T,7,107961544,C,A,-,1,Maddirevula et al.,Skipping; r.1931_1985del:p.(Gly644Aspfs*19),,107961676,107961549,,,skip
+NM_000245.2:c.3028+1G>A,7,116771990,G,A,+,1,MutSpliceDB,Exon 14 skipping,,116771849,116771989,,,skip
+NM_000245.2:c.3028+1G>C,7,116771990,G,C,+,1,MutSpliceDB,Exon 14 skipping,,116771849,116771989,,,skip
+NM_000245.2:c.3028+1G>T,7,116771990,G,T,+,1,MutSpliceDB,Exon 14 skipping,,116771849,116771989,,,skip
+NM_000245.2:c.3028+2T>C,7,116771991,T,C,+,1,MutSpliceDB,Exon 14 skipping,,116771849,116771989,,,skip
+NM_000245.2:c.3028+2T>G,7,116771991,T,G,+,1,MutSpliceDB,Exon 14 skipping,,116771849,116771989,,,skip
+NM_000492.3:c.165-3C>T,7,117509031,C,T,+,1,Leman et al.,exon 3 skipping of low intensity,,117509034,117509142,,,skip
+NM_000492.3:c.274-6T>C,7,117530893,T,C,+,0,Leman et al.,,,,,,,normal
+NM_000492.3:c.489G>A,7,117531114,G,A,+,1,Leman et al.,exon 4 skipped and use of a cryptic site  93 nt upstream from 5' ss,,,,,,multiple
+NM_000492.3:c.489+1G>T,7,117531115,G,T,+,1,Leman et al.,exon 4 skipped and use of a cryptic site  93 nt upstream from 5' ss,,,,,,multiple
+NM_000492.3:c.489+3A>G,7,117531117,A,G,+,1,Leman et al.,exon 4 skipped and use of a cryptic site  93 nt upstream from 5' ss,,,,,,multiple
+NM_000492.3:c.489+4A>G,7,117531118,A,G,+,1,Leman et al.,exon 4 skipped and use of a cryptic site  93 nt upstream from 5' ss,,,,,,multiple
+NM_000492.3:c.490-1G>C,7,117534275,G,C,+,1,Leman et al.,exon 5 skipped and use of a cryptic site 9 nt downstream from 3' ss,,,,,,multiple
+NM_000492.3:c.579+1G>T,7,117534366,G,T,+,1,Leman et al.,exon 5 skipped,,117534276,117534365,,,skip
+NM_000492.3:c.580-1G>T,7,117535247,G,T,+,1,Leman et al.,exon 6 skipped,,117535248,117535411,,,skip
+NM_000492.3:c.743+1G>A,7,117535412,G,A,+,1,Leman et al.,exon 6 skipped,,117535248,117535411,,,skip
+NM_000492.3:c.744-14_744-3del,7,117536534,TGATTGATTTACA,A,+,1,Leman et al.,use of a cryptic site 32 nt upstream from 3' ss,,117536548,,117536516,,alternative acceptor
+NM_000492.3:c.744-10_744-3del,7,117536538,TGATTTACA,A,+,1,Leman et al.,use of a cryptic site 32 nt upstream from 3' ss,,117536548,,117536516,,alternative acceptor
+NM_000492.3:c.744-9_744-6del,7,117536539,GATTT,T,+,0,Leman et al.,,,,,,,normal
+NM_000492.3:c.744-9_744-6dup,7,117536542,T,TGATT,+,0,Leman et al.,,,,,,,normal
+NM_000492.3:c.870-12T>A,7,117540088,T,A,+,1,Leman et al.,use of a cryptic site 71 nt downsteam from 3' ss frameshift,,117540100,,117540171,,alternative acceptor
+NM_000492.3:c.870-4A>G,7,117540096,A,G,+,0,Leman et al.,,,,,,,normal
+NM_000492.3:c.1116+1G>A,7,117540347,G,A,+,1,Leman et al.,use of a cryptic site 34 nt upstream from 5' ss frameshift,,,117540346,,117540312,alternative donor
+NM_000492.3:c.1209G>A,7,117542108,G,A,+,1,Leman et al.,exon 9 skipped,,117542016,117542108,,,skip
+NM_000492.3:c.1209+2T>G,7,117542110,T,G,+,1,Leman et al.,exon 9 skipped,,117542016,117542108,,,skip
+NM_000492.3:c.1393-2A>G,7,117559462,A,G,+,1,Leman et al.,use of a cryptic site 87 nt downsteam from 3' ss frameshift,,117559464,,117559551,,alternative acceptor
+NM_000492.3:c.1584G>A,7,117559655,G,A,+,1,Leman et al.,exon 10 skipping of low intensity,,117548641,117548823,,,skip
+NM_000492.3:c.1585-8G>A,7,117587731,G,A,+,1,Leman et al.,use of a de novo site 6 nt upstream from 3' ss,Strauch: Variant effect changed to 6nt upstream (was 7 in the original publication),117587739,,117587733,,alternative acceptor
+NM_000492.3:c.1585-3T>G,7,117587736,T,G,+,1,Leman et al.,exon 12 skipping and use of a de novo site 2 nt upstream from 3' ss,,,,,,multiple
+NM_000492.3:c.1585-1G>A,7,117587738,G,A,+,1,Leman et al.,exon 12 skipped and use of a de novo 1 nt downstream from 3' ss,,,,,,multiple
+NM_000492.3:c.1679+1G>C,7,117587834,G,C,+,1,Leman et al.,exon 12 skipped,,117587739,117587833,,,skip
+NM_000492.3:c.1766+1G>A,7,117590440,G,A,+,1,Leman et al.,exon 13 skipped,,117590353,117590439,,,skip
+NM_000492.3:c.1766+3A>G,7,117590442,A,G,+,1,Leman et al.,exon 13 skipped,,117590353,117590439,,,skip
+NM_000492.3:c.2490+1G>A,7,117592658,G,A,+,1,Leman et al.,exon 14 skipped,,117591934,117592657,,,skip
+NM_000492.3:c.2491G>T,7,117594930,G,T,+,1,Leman et al.,exon 15 skipping of  strong intensity,,117594930,117595058,,,skip
+NM_000492.3:c.2620-6T>C,7,117602820,T,C,+,0,Leman et al.,,,,,,,normal
+NM_000492.3:c.2657+5G>A,7,117602868,G,A,+,1,Leman et al.,exon 16 skipped,,117602826,117602863,,,skip
+NM_000492.3:c.2658-1G>A,7,117603531,G,A,+,1,Leman et al.,exon 17 skipped,,117603532,117603782,,,skip
+NM_000492.3:c.2909-4A>G,7,117606670,A,G,+,0,Leman et al.,,,,,,,normal
+NM_000492.3:c.2988G>A,7,117606753,G,A,+,1,Leman et al.,exon 18 skipped,,117606674,117606753,,,skip
+NM_000492.3:c.2988+1G>A,7,117606754,G,A,+,1,Leman et al.,exon 18 skipped,,117606674,117606753,,,skip
+NM_000492.3:c.2989-1G>A,7,117610518,G,A,+,1,Leman et al.,exon 19 skipped,,117610519,117610669,,,skip
+NM_000492.3:c.2989-1G>T,7,117610518,G,T,+,1,Leman et al.,exon 19 skipped,,117610519,117610669,,,skip
+NM_000492.3:c.3139+3A>G,7,117610672,A,G,+,1,Leman et al.,exon 19 skipping of strong intensity,,117610519,117610669,,,skip
+NM_000492.3:c.3468+1G>A,7,117614714,G,A,+,1,Leman et al.,exon 21 skipped,,117614613,117614713,,,skip
+NM_000492.3:c.3468+2dup,7,117614715,T,TT,+,1,Leman et al.,exon 21 skipped,,117614613,117614713,,,skip
+NM_000492.3:c.3718-1G>A,7,117642437,G,A,+,1,Leman et al.,exon 23 skipping and use of a de novo site 1 nt downstream from 3' ss,,,,,,multiple
+NM_000492.3:c.3873+1G>A,7,117642594,G,A,+,1,Leman et al.,use of a cryptic site 29 nt downstream from 5' ss,,,117642593,,117642622,alternative donor
+NM_000492.3:c.3874-4522A>G,7,117648320,A,G,+,1,Ellingford et al. [100K],"cryptic splice site, pseudoexon inclusion: NM_000492.3:r.3873_3874ins3874-4521_3874-4397",,,,,,multiple
+NM_000492.3:c.4242_4242+1delinsTT,7,117665564,GG,TT,+,1,Leman et al.,exon 26 skipped,,117665459,117665564,,,skip
+NM_000492.3:c.4242+1G>T,7,117665565,G,T,+,1,Leman et al.,exon 26 skipped,,117665459,117665564,,,skip
+NM_001144923.1:c.4-1G>C,7,139134654,G,C,+,1,Maddirevula et al.,Skipping; r.4_141del;p.(Met2_Glu47del),,139134655,139134792,,,skip
+NM_018238.3:c.424-3C>G,7,141615468,C,G,+,1,Maddirevula et al. [PM22415731],Skipping; r.424_518del:p.(Ala142Thrfs*4),,141615471,141615565,,,skip
+NM_015214.2:c.1891+2dup,8,38253129,T,TT,+,1,Maddirevula et al.,Retention; r.1890_1891ins1890+1_1891+41:p.(Asp631Glyfs*3),,,,,,retention
+NM_001174067.1:c.1029G>A,8,38424509,C,T,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_006749.3:c.613+1G>A,8,42459895,C,T,-,1,Maddirevula et al.,Skipping; r.517_613del:p.(Glu173Cysfs*11),,42459992,42459896,,,skip
+NM_144651.4:c.695-2A>T,8,51472306,T,A,-,1,Maddirevula et al.,Skipping; r.695_812del:p.(Gln232Profs*21),,51472304,51472187,,,skip
+NM_000067.2:c.232+1G>A,8,85465470,G,A,+,1,Maddirevula et al.,Skipping; r.35_232del:p.(Gly12_Ala77del),,85465272,85465469,,,skip
+NM_017890.4:c.7226C>T,8,99766874,C,T,+,0,Wai et al.,,,,,,,normal
+NM_020829.3:c.3794G>C,9,5772741,G,C,+,1,Maddirevula et al. [PM27878435 ],Skipping; r.3794_3795ins3794+1_3794+59:p.(Arg1265Profs*7),,5772564,5772741,,,skip
+NM_000077.4:c.457+2T>C,9,21970900,A,G,-,1,MutSpliceDB,"Intron inclusion between exons 2 & 3, or skipping end of exon 2",,,,,,multiple
+NM_000077.4:c.457+1G>A,9,21970901,C,T,-,1,MutSpliceDB,"Intron inclusion between exons 2 & 3, or skipping end of exon 2",,,,,,multiple
+NM_000077.4:c.457+1G>T,9,21970901,C,A,-,1,MutSpliceDB,"Intron inclusion between exons 2 & 3, or skipping end of exon 2",,,,,,multiple
+NM_000077.4:c.151-1G>A,9,21971209,C,T,-,1,MutSpliceDB,Intron inclusion between exons 1 & 2,,,,,,retention
+NM_000077.4:c.151-1G>T,9,21971209,C,A,-,1,MutSpliceDB,Intron inclusion between exons 1 & 2,,,,,,retention
+NM_000077.4:c.151-2A>C,9,21971210,T,G,-,1,MutSpliceDB,Intron inclusion between exons 1 & 2,,,,,,retention
+NM_000264.4:c.2704-11C>T,9,95459794,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000264.3:c.2561-1G>A,9,95461999,C,T,-,1,MutSpliceDB,Intron inclusion between exons 15 & 16,,,,,,retention
+NM_001306210.1:c.574G>C,9,99132727,G,C,+,1,Wai et al.,Upstream Skipped Exon,,99132509,99132739,,,skip
+NM_001011649.1:c.4005-15A>G,9,120419975,T,C,-,1,Maddirevula et al.,Skipping; r.4004_4004+1insTCTCAATGGTTAAG:(p.Arg1335SerfsTer12),,120419960,120419788,,,skip
+NM_007171.3:c.280+1G>T,9,131506454,G,T,+,1,Maddirevula et al. [PM20065251],Skipping; r.280_425del:p.(Glu94Argfs*95),,131506403,131506453,,,skip
+NM_007171.3:c.1241+4_1241+7delAGTG,9,131513335,AGTGT,T,+,1,Maddirevula et al.,Skipping; r.1149_1241del:p.(Gln385_His415del),,131513239,131513331,,,skip
+NM_000368.4:c.1263+4C>T,9,132910567,G,A,-,1,MutSpliceDB,Intron inclusion between exons 12 & 13,,,,,,retention
+NM_000368.4:c.914-24_914-8del,9,132911576,GGAAGAGAAGAACACAGG,G,-,1,Wai et al.,Downstream Skipped Exon,Strauch: Original position annotation is 1bp off,132911568,132911453,,,skip
+NM_000368.4:c.508+1G>T,9,132923347,C,A,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000368.4:c.211-7T>G,9,132925746,A,C,-,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_000093.3:c.1195G>A,9,134731526,G,A,+,0,Wai et al.,,,,,,,normal
+NM_145698.3:c.1205-1G>A,10,27208446,C,T,-,1,Maddirevula et al.,Retention; r.1205delG:p.(Gly402Aspfs*7),,,,,,retention
+NM_003873.5:c.981+2T>C,10,33254026,A,G,-,1,Maddirevula et al.,Skipping; r.815_981del:p.(Asp272Glyfs*36),,33254194,33254028,,,skip
+NM_003873.5:c.248+2T>G,10,33330706,A,C,-,1,Maddirevula et al. [PM25713110],Skipping; r.74_248del:p.(Asp25Glyfs*25),Strauch: Removed annotation 'p.(Asp25Gfs*25)' from ID,33330882,33330708,,,skip
+NM_001080449.2:c.3114+6delC,10,68416703,GG,G,-,1,Maddirevula et al. [PM24389050],Skipping; r.3146_3183del:p.(Ser1049_Glu1060delinsLysHisTyrPheProCysLeuPheIleLeuGlyGlnTyrLeuLeu);r.2935_3114del:p.?;r.2935_3116del:p.?;r.2935_3134del:p.?;r.2935_3136del:p.?,,68416855,68416709,,,skip
+NM_001198800.1:c.871+1G>A,10,72133056,C,T,-,1,Maddirevula et al.,Skipping; r.747_957del:p.(Arg249Serfs*11),,72133181,72133057,,,skip
+NM_000314.4:c.-66_-64del,10,87864404,AAGC,C,+,0,Wai et al.,,Strauch: Original position annotation is 1bp off,,,,,normal
+NM_000314.4:c.165-13-10del,10,87925500,GT,T,+,0,Wai et al.,Normal,Strauch: Original position annotation is 1bp off,,,,,normal
+NM_000314.4:c.253G>C,10,87931089,G,C,+,1,Wai et al.,Upstream Skipped Exon,,87931046,87931089,,,skip
+NM_000314.4:c.373A>G,10,87933132,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000314.4:c.553C>G,10,87952178,C,G,+,0,Wai et al.,,,,,,,normal
+NM_000314.4:c.593T>C,10,87952218,T,C,+,0,Wai et al.,,,,,,,normal
+NM_000314.5:c.635-3C>A,10,87957850,C,A,+,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000314.5:c.635-3C>G,10,87957850,C,G,+,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000314.6:c.635-2A>C,10,87957851,A,C,+,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000314.4:c.830C>T,10,87960922,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000314.6:c.1026+1G>T,10,87961119,G,T,+,1,MutSpliceDB,"Intron inclusion between exons 8 & 9, and loss of exon 9 expression",,,,,,retention
+NM_000314.6:c.1027-2A>T,10,87965285,A,T,+,1,MutSpliceDB,Intron inclusion between exons 8 & 9,,,,,,retention
+NM_006204.3:c.939+5G>A,10,93625654,G,A,+,1,Maddirevula et al.,Skipping; r.865_939del:p.(Phe290_Glu314del),,93625575,93625649,,,skip
+NM_006204.3:c.1072-11T>C,10,93629247,T,C,+,0,Ellingford et al. [100K],,,,,,,normal
+NM_006459.3:c.430+6delAAGT,10,100175939,AC,C,-,1,Maddirevula et al.,Skipping; r.305_430del;p.(Val102_Phe143del),,100176070,100175945,,,skip
+NM_000278.3:c.1202-2A>G,10,100827634,A,G,+,1,Maddirevula et al.,Skipping; r.1177_1196del:p.(Ser393Cysfs*16),Strauch: Excluded from variant effect analysis - last exon in transcript,,,,,skip
+NM_001195305:c.38-6T>C,10,110901618,A,G,-,1,Maddirevula et al.,Skipping; r.1_37del:p.?,,110901612,110901538,,,skip
+NM_004092.3:c.88+5G>A,10,133373241,C,T,-,1,Maddirevula et al. [PM27905109],Retention; r.87_88ins1_88+10:p.(Ala31Glufs*23),,,,,,retention
+NM_004813.2:c.953-2A>T,11,45910314,T,A,-,1,Maddirevula et al.,Skipping; r.953_1129del:p.(Arg318_Gly336delinsAsnThrGlnProTrpSerProProAlaPheLeuProGlyHisPro),Strauch: Excluded from variant effect analysis - first exon in transcript,,,,,skip
+NM_004813.2:c.460+5G>A,11,45915463,C,T,-,1,Maddirevula et al.,Skipping; r.360_460del:p.(Ala121Trpfs*2),,45915568,45915468,,,skip
+NM_000256.3:c.3815-10T>G,11,47331891,A,C,-,0,"Wai et al., Ito et al. [Clinical]",P-Val:1,,,,,,normal
+NM_000256.3:c.3815-12C>T,11,47331893,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3815-16G>C,11,47331897,C,G,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3815-37C>T,11,47331918,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3812G>A,11,47332074,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3791G>A,11,47332095,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3780C>T,11,47332106,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3763G>A,11,47332123,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3750C>G,11,47332136,G,C,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3746G>T,11,47332140,C,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3742G>A,11,47332144,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3682C>T,11,47332204,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3677G>T,11,47332209,C,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3628-12C>G,11,47332270,G,C,-,1,"Ito et al. [Clinical]",P-Val:2.26E-32,,,,,,unknown disruption
+NM_000256.3:c.3617G>A,11,47332576,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3615G>A,11,47332578,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3498C>G,11,47332695,G,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3492C>T,11,47332701,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3490+6G>A,11,47332808,C,T,-,0,"Ito et al. [Clinical]",P-Val:0.0152,,,,,,normal
+NM_000256.3:c.3490+3G>A,11,47332811,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3426G>A,11,47332878,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3413G>C,11,47332891,C,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3330+5G>A,11,47333189,C,T,-,1,"Ito et al. [Clinical]",P-Val:0.000050,,,,,,unknown disruption
+NM_000256.3:c.3330+5G>C,11,47333189,C,G,-,1,"Ito et al. [Clinical]",P-Val:3.76E-06,,,,,,unknown disruption
+NM_000256.3:c.3330+5G>T,11,47333189,C,A,-,1,"Ito et al. [Clinical]",P-Val:6.57E-07,,,,,,unknown disruption
+NM_000256.3:c.3279C>T,11,47333245,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3224C>G,11,47333300,G,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3218G>A,11,47333306,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3191-7C>T,11,47333340,G,A,-,0,"Ito et al. [Clinical]",P-Val:0.088,,,,,,normal
+NM_000256.3:c.3191-16G>T,11,47333349,C,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3191-32C>T,11,47333365,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3190+5G>A,11,47333552,C,T,-,1,"Ito et al. [Clinical]",P-Val:0.000343,,,,,,unknown disruption
+NM_000256.3:c.3190+4C>T,11,47333553,G,A,-,0,"Ito et al. [Clinical]",P-Val:0.0397,,,,,,normal
+NM_000256.3:c.3190+3G>A,11,47333554,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3123C>T,11,47333624,G,A,-,0,Ito et al. [Clinical],P-Val:1,Strauch: Changed ID from 'NM_000256.3:c.intron32del',,,,,normal
+NM_000256.3:c.3116A>G,11,47333631,T,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3106C>T,11,47333641,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3098G>A,11,47333649,C,T,-,0,Ito et al. [Clinical],P-Val:0.121,,,,,,normal
+NM_000256.3:c.3090G>A,11,47333657,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.3065G>A,11,47333682,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.3048C>T,11,47333699,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2997C>T,11,47333750,G,A,-,0,Ito et al. [Clinical],P-Val:0.613,,,,,,normal
+NM_000256.3:c.2995-5C>G,11,47333757,G,C,-,0,"Ito et al. [Clinical]",P-Val:0.238,,,,,,normal
+NM_000256.3:c.2995-12T>C,11,47333764,A,G,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2993A>G,11,47333923,T,C,-,1,"Ito et al. [Clinical]",P-Val:1.00E-16,,,,,,unknown disruption
+NM_000256.3:c.2962G>A,11,47333954,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2961C>T,11,47333955,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2914C>T,11,47334002,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2906-12C>T,11,47334022,G,A,-,0,"Ito et al. [Clinical]",P-Val:1,,,,,,normal
+NM_000256.3:c.2905+35A>C,11,47335007,T,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2905+35A>T,11,47335007,T,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2905+5G>T,11,47335037,C,A,-,1,"Ito et al. [Clinical]",P-Val:3.74E-33,,,,,,unknown disruption
+NM_000256.3:c.2886G>A,11,47335061,C,T,-,0,Ito et al. [Clinical],P-Val:0.001530,,,,,,normal
+NM_000256.3:c.2877G>A,11,47335070,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2738-3C>G,11,47335212,G,C,-,1,"Ito et al. [Clinical]",P-Val:7.21E-06,,,,,,unknown disruption
+NM_000256.3:c.2738-6C>A,11,47335215,G,T,-,0,"Ito et al. [ExAC Only]",P-Val:0.002530,,,,,,normal
+NM_000256.3:c.2624A>T,11,47335990,T,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2603-20C>G,11,47336031,G,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2602+31G>T,11,47337360,C,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2602+28C>T,11,47337363,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2602G>A,11,47337391,C,T,-,1,"Ito et al. [ExAC Only]",P-Val:2.14E-06,,,,,,unknown disruption
+NM_000256.3:c.2601C>A,11,47337392,G,T,-,0,"Ito et al. [Clinical]",P-Val:0.475,,,,,,normal
+NM_000256.3:c.2601C>G,11,47337392,G,C,-,0,"Ito et al. [Clinical]",P-Val:0.589,,,,,,normal
+NM_000256.3:c.2547C>A,11,47337446,G,T,-,0,Ito et al. [Clinical],P-Val:0.279,,,,,,normal
+NM_000256.3:c.2533C>T,11,47337460,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2413+14C>T,11,47337676,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2413+6T>C,11,47337684,A,G,-,0,"Ito et al. [ExAC Only]",P-Val:0.683,,,,,,normal
+NM_000256.3:c.2397C>T,11,47337706,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2320G>A,11,47337783,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2311G>A,11,47337792,C,T,-,0,Ito et al. [Clinical],P-Val:0.126,,,,,,normal
+NM_000256.3:c.2309-20G>A,11,47337814,C,T,-,0,Ito et al. [Clinical],P-Val:0.434,,,,,,normal
+NM_000256.3:c.2308+3G>A,11,47338517,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2308G>A,11,47338520,C,T,-,0,"Ito et al. [Clinical]",P-Val:1,,,,,,normal
+NM_000256.3:c.2307C>T,11,47338521,G,A,-,0,"Ito et al. [ExAC Only]",P-Val:1,,,,,,normal
+NM_000256.3:c.2274C>T,11,47338554,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2234A>G,11,47338594,T,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2161A>T,11,47338667,T,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.2149-3C>G,11,47338682,G,C,-,1,"Ito et al. [Clinical]",P-Val:6.34E-16,,,,,,unknown disruption
+NM_000256.3:c.2149-8C>G,11,47338687,G,C,-,0,Ito et al. [Clinical],P-Val:0.5159026,,,,,,normal
+NM_000256.3:c.2148+3G>A,11,47339321,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.2119G>A,11,47339353,C,T,-,0,Ito et al. [ExAC Only],P-Val:0.0140,,,,,,normal
+NM_000256.3:c.2067+5T>G,11,47339646,A,C,-,0,Ito et al. [ExAC Only],P-Val:0.2462312,,,,,,normal
+NM_000256.3:c.2035C>T,11,47339683,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1928-11G>A,11,47339801,C,T,-,0,"Ito et al. [ExAC Only]",P-Val:0.330,,,,,,normal
+NM_000256.3:c.1897+25G>A,11,47341113,C,T,-,0,Ito et al. [Clinical],P-Val:0.45,,,,,,normal
+NM_000256.3:c.1897+5G>A,11,47341133,C,T,-,1,"Ito et al. [Clinical]",P-Val:1.43E-20,,,,,,unknown disruption
+NM_000256.3:c.1791-42G>A,11,47341286,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1790+5G>A,11,47341986,C,T,-,1,"Ito et al. [Clinical]",P-Val:4.75E-11,,,,,,unknown disruption
+NM_000256.3:c.1790G>A,11,47341991,C,T,-,1,"Ito et al. [Clinical]",P-Val:4.80E-14,,,,,,unknown disruption
+NM_000256.3:c.1789C>T,11,47341992,G,A,-,0,"Ito et al. [Clinical]",P-Val:0.186,,,,,,normal
+NM_000256.3:c.1726G>A,11,47342055,C,T,-,0,Ito et al. [ExAC Only],P-Val:0.124,,,,,,normal
+NM_000256.3:c.1721G>A,11,47342060,C,T,-,0,Ito et al. [Clinical],P-Val:0.620,,,,,,normal
+NM_000256.3:c.1696T>C,11,47342085,A,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1671C>T,11,47342110,G,A,-,1,Ito et al. [ExAC Only],P-Val:3.87E-17,,,,,,unknown disruption
+NM_000256.3:c.1664T>C,11,47342117,A,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1641G>A,11,47342140,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1625-7C>A,11,47342163,G,T,-,1,"Ito et al. [ExAC Only]",P-Val:4.73E-12,,,,,,unknown disruption
+NM_000256.3:c.1625-8C>G,11,47342164,G,C,-,0,"Ito et al. [ExAC Only]",P-Val:0.0322,,,,,,normal
+NM_000256.3:c.1625-29G>A,11,47342185,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1624+4A>T,11,47342574,T,A,-,1,"Wai et al., Ito et al. [Clinical]",Ito et al. [Clinical]: P-Val:1.37E-20; Wai et al.: Upstream Skipped Exon,,47342744,47342578,,,skip
+NM_000256.3:c.1624G>C,11,47342578,C,G,-,1,"Ito et al. [Clinical]",P-Val:5.71E-25,,,,,,unknown disruption
+NM_000256.3:c.1601C>T,11,47342601,G,A,-,0,Ito et al. [Clinical],P-Val:0.248,,,,,,normal
+NM_000256.3:c.1505G>A,11,47342697,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1458-6G>A,11,47342750,C,T,-,0,"Ito et al. [Clinical]",P-Val:0.216,,,,,,normal
+NM_000256.3:c.1458-17C>T,11,47342761,G,A,-,0,Ito et al. [Clinical],P-Val:0.7214801,,,,,,normal
+NM_000256.3:c.1457+5G>C,11,47342825,C,G,-,1,"Wai et al., Ito et al. [Clinical]",Ito et al. [Clinical]: P-Val:1.27E-28; Wai et al.: Upstream Skipped Exon,,47342935,47342830,,,skip
+NM_000256.3:c.1457+3G>C,11,47342827,C,G,-,1,"Ito et al. [Clinical]",P-Val:5.28E-16,,,,,,unknown disruption
+NM_000256.3:c.1456T>G,11,47342831,A,C,-,0,"Ito et al. [Clinical]",P-Val:0.358,,,,,,normal
+NM_000256.3:c.1397T>A,11,47342890,A,T,-,0,Ito et al. [Clinical],P-Val:0.683,,,,,,normal
+NM_000256.3:c.1395G>A,11,47342892,C,T,-,0,Ito et al. [ExAC Only],P-Val:0.135,,,,,,normal
+NM_000256.3:c.1351+4G>A,11,47343017,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.1351G>C,11,47343021,C,G,-,0,"Ito et al. [Clinical]",P-Val:1,,,,,,normal
+NM_000256.3:c.1320C>T,11,47343052,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1227-9C>A,11,47343154,G,T,-,1,"Ito et al. [Clinical]",P-Val:0.000222,,,,,,unknown disruption
+NM_000256.3:c.1227-13G>A,11,47343158,C,T,-,1,"Ito et al. [Clinical]",P-Val:5.63E-13,,,,,,unknown disruption
+NM_000256.3:c.1227-14C>A,11,47343159,G,T,-,1,"Ito et al. [ExAC Only]",P-Val:6.57E-07,,,,,,unknown disruption
+NM_000256.3:c.1226+6T>C,11,47343254,A,G,-,0,"Ito et al. [Clinical]",P-Val:0.334,,,,,,normal
+NM_000256.3:c.1224-6C>A,11,47343268,G,T,-,0,"Ito et al. [Clinical]",P-Val:1,,,,,,normal
+NM_000256.3:c.1224-21A>G,11,47343283,T,C,-,1,"Wai et al., Ellingford et al. [100K]","Ellingford et al. [100K]: cryptic splice site, intron inclusion: NM_000256.3:r.1223_1224ins1223+1_1223+20; Wai et al.: Intronic Alternative 3' Splice Site",,,,,,multiple
+NM_000256.3:c.1224-33G>A,11,47343295,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.1213A>G,11,47343502,T,C,-,1,Ito et al. [Clinical],P-Val:3.08E-08,,,,,,unknown disruption
+NM_000256.3:c.1101G>T,11,47343614,C,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.1091-8G>A,11,47343632,C,T,-,0,"Ito et al. [ExAC Only]",P-Val:1,,,,,,normal
+NM_000256.3:c.1091-12G>A,11,47343636,C,T,-,0,"Ito et al. [ExAC Only]",P-Val:1,,,,,,normal
+NM_000256.3:c.1091-35C>A,11,47343659,G,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.1090+49C>T,11,47346158,G,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.1006A>G,11,47346291,T,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.1000G>A,11,47346297,C,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.999C>T,11,47346298,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.960C>G,11,47346337,G,C,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.927-9G>A,11,47346379,C,T,-,1,"Ito et al. [Clinical]",P-Val:7.18E-08,,,,,,unknown disruption
+NM_000256.3:c.927-10C>A,11,47346380,G,T,-,1,"Ito et al. [Clinical]",P-Val:7.18E-08,,,,,,unknown disruption
+NM_000256.3:c.926+4A>G,11,47346623,T,C,-,1,"Ito et al. [Clinical]",P-Val:5.89E-17,,,,,,unknown disruption
+NM_000256.3:c.924G>A,11,47346629,C,T,-,0,Ito et al. [ExAC Only],P-Val:0.05814839,,,,,,normal
+NM_000256.3:c.909-20C>T,11,47346664,G,A,-,0,Ito et al. [Clinical],P-Val:0.747,,,,,,normal
+NM_000256.3:c.906-8T>C,11,47347037,A,G,-,1,"Ito et al. [Clinical]",P-Val:1.00E-16,,,,,,unknown disruption
+NM_000256.3:c.853G>A,11,47347478,C,T,-,0,"Ito et al. [Clinical]",P-Val:0.0648,,,,,,normal
+NM_000256.3:c.852-14G>T,11,47347493,C,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.821+5G>A,11,47347852,C,T,-,1,"Ito et al. [Clinical]",P-Val:8.95E-16,,,,,,unknown disruption
+NM_000256.3:c.821C>T,11,47347857,G,A,-,0,"Ito et al. [ExAC Only]",P-Val:0.320,,,,,,normal
+NM_000256.3:c.772+43G>A,11,47348381,C,T,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.772G>A,11,47348424,C,T,-,1,"Ito et al. [Clinical]",P-Val:1.61E-07,,,,,,unknown disruption
+NM_000256.3:c.770A>C,11,47348426,T,G,-,1,Ito et al. [Clinical],P-Val:3.09E-10,,,,,,unknown disruption
+NM_000256.3:c.758A>G,11,47348438,T,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.710A>C,11,47348486,T,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.659A>G,11,47348537,T,C,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.655G>C,11,47348541,C,G,-,1,"Ito et al. [Clinical]",P-Val:2.43E-32,,,,,,unknown disruption
+NM_000256.3:c.655G>T,11,47348541,C,A,-,1,"Ito et al. [Clinical]",P-Val:1.22E-20,,,,,,unknown disruption
+NM_000256.3:c.655-19C>T,11,47348560,G,A,-,0,Ito et al. [ExAC Only],P-Val:0.5370154,,,,,,normal
+NM_000256.3:c.654+5G>A,11,47349769,C,T,-,1,"Ito et al. [Clinical]",P-Val:0.000236,,,,,,unknown disruption
+NM_000256.3:c.654+4G>A,11,47349770,C,T,-,0,Ito et al. [ExAC Only],P-Val:0.05130614,,,,,,normal
+NM_000256.3:c.636C>G,11,47349792,G,C,-,1,Ito et al. [Clinical],P-Val:1.97E-32,,,,,,unknown disruption
+NM_000256.3:c.604A>C,11,47349824,T,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.518C>A,11,47349910,G,T,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.506-10G>T,11,47349932,C,A,-,0,Ito et al. [ExAC Only],P-Val:1,,,,,,normal
+NM_000256.3:c.505+6T>G,11,47350008,A,C,-,1,"Ito et al. [Clinical]",P-Val:1.10E-31,,,,,,unknown disruption
+NM_000256.3:c.505+5G>C,11,47350009,C,G,-,1,"Ito et al. [Clinical]",P-Val:2.42E-43,,,,,,unknown disruption
+NM_000256.3:c.504G>A,11,47350015,C,T,-,0,Ito et al. [ExAC Only],P-Val:0.2156441,,,,,,normal
+NM_000256.3:c.503T>C,11,47350016,A,G,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.501C>T,11,47350018,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.483A>G,11,47350036,T,C,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.478C>T,11,47350041,G,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.472G>T,11,47350047,C,A,-,0,Ito et al. [Clinical],P-Val:1,,,,,,normal
+NM_000256.3:c.471C>T,11,47350048,G,A,-,1,Ito et al. [Clinical],P-Val:1.00E-16,,,,,,unknown disruption
+NM_000256.3:c.442G>A,11,47350077,C,T,-,1,Ito et al. [Clinical],P-Val:1.01E-07,,,,,,unknown disruption
+NM_000256.3:c.407-5C>T,11,47350117,G,A,-,1,"Ito et al. [Clinical]",P-Val:1.00E-16,,,,,,unknown disruption
+NM_000256.3:c.406+5G>C,11,47350497,C,G,-,0,"Ito et al. [ExAC Only]",P-Val:0.011700,,,,,,normal
+NM_000256.3:c.405A>G,11,47350503,T,C,-,0,"Ito et al. [Clinical]",P-Val:0.187,,,,,,normal
+NM_000256.3:c.290C>T,11,47351241,G,A,-,0,Ito et al. [Clinical],P-Val:0.0594,,,,,,normal
+NM_000256.3:c.26-10G>A,11,47351515,C,T,-,1,"Ito et al. [Clinical]",P-Val:2.58E-12,,,,,,unknown disruption
+NM_000256.3:c.25+3A>C,11,47352620,T,G,-,0,"Ito et al. [Clinical]",P-Val:1,,,,,,normal
+NM_015231.1:c.1179+5G>A,11,47822082,C,T,-,1,Maddirevula et al.,Skipping; r. 888_1073del:p.(Arg296_Arg358delinsSer),,47822164,47822087,,,skip
+NM_001144012.2:c.500G>A,11,57739039,G,A,+,1,Maddirevula et al.,Skipping;  r.251_614del:p.(Ile84Serfs*4),Strauch: Removed annotation '(p.Arg167Gln)' from ID,57738974,57739039,,,skip
+NM_004177.4:c.115-2A>G,11,59787035,A,G,+,1,Maddirevula et al.,Skipping; r.114_215del:p.(Ile39_Lys72del),,59787037,59787136,,,skip
+NM_001178040.1:c.675+1delinsT,11,59793515,G,T,+,1,Maddirevula et al.,Skipping; r.541_675del:p.(Ile181_Gln225del),,59793380,59793514,,,skip
+NM_016464.4:c.377-3C>G,11,61368594,C,G,+,1,Maddirevula et al.,Skipping; r.376_377ins377-1_377_2;p.(Ala126Glufs*15),Strauch: Excluded from variant effect analysis - last exon of transcript,,,,,skip
+NM_130799.2:c.1050-3C>G,11,64805773,G,C,-,1,Wai et al.,Intron Retention,,,,,,retention
+NM_001099409.1:c.4004-1G>A,11,65589935,G,A,+,1,Maddirevula et al.,Skipping; r.4004_4059del:p.(Gly1335Alafs*30),,65589936,65589991,,,skip
+NM_024649.4:c.124+1G>A,11,66511090,G,A,+,1,Maddirevula et al.,Skipping; r.125_159del:p.(A42AfsX44),,66511013,66511089,,,skip
+NM_024649.4:c.592-21A>T,11,66519596,A,T,+,0,Ellingford et al. [100K],,,,,,,normal
+NM_024649.1:c.951+58C>T,11,66523634,C,T,+,1,Maddirevula et al. [PM19858128],Retention; r.951_952ins951+1_951+58 p.(G318Vfs*62),,,,,,retention
+NM_024649.4:c.1110+329C>T,11,66524211,C,T,+,1,Maddirevula et al. [PM19858128],Retention; r.951_952ins951+1_951+147:p.(G318VfsX35),,,,,,retention
+NM_006946.2:c.4150C>A,11,66696405,G,T,-,0,Wai et al.,,,,,,,normal
+NM_007103.3:c.1080G>A,11,67611569,G,A,+,1,Wai et al.,Upstream Skipped Exon,,67611403,67611569,,,skip
+NM_002335.2:c.1413-7T>A,11,68389874,T,A,+,0,Ellingford et al. [100K],,,,,,,normal
+NM_002335.3:c.1585G>T,11,68403483,G,T,+,0,Leman et al.,,,,,,,normal
+NM_016401.3:c.539+3A>G,11,86344724,A,G,+,1,Wai et al.,Upstream Skipped Exon,,86344603,86344721,,,skip
+NM_000051.3:c.2922-2A>T,11,108271249,A,T,+,1,MutSpliceDB,Intron inclusion between exons 19 & 20,,,,,,retention
+NM_001931.4:c.975G>C,11,112037460,G,C,+,1,Maddirevula et al.,Skipping; r.788_975del:p.(Phe264Glyfs*32),,112037273,112037460,,,skip
+NM_003002.2:c.314+5G>A,11,112089016,G,A,+,1,Wai et al.,Upstream Skipped Exon,,112088867,112089011,,,skip
+NM_004064.4:c.475+1G>A,12,12718315,G,A,+,1,MutSpliceDB,Intron inclusion between exons 1 & 2,,,,,,retention
+NM_004572.3:c.337-2A>T,12,32878545,T,A,-,1,Wai et al.,Downstream Skipped Exon,,32878543,32877846,,,skip
+NM_000277.1:c.1066-11G>A,12,102843790,C,T,-,1,Maddirevula et al.,Skipping; r.1065_1066insGGCCTACAG;p.(Gln355_Tyr356insGlyLeuGln),,102843779,102843646,,,skip
+NM_001082538.2:c.342-2A>G,12,110626360,A,G,+,1,Maddirevula et al. [PM22693042 ],Skipping; r.342_397del:p.(Gly115Lysfs*8),,110626362,110626492,,,skip
+NM_015335.4:c.2570-4_2574del,12,115997226,AACTGCTAAA,A,-,1,Wai et al.,Exonic Alternative 3' Splice Site,Strauch: Original position annotation is 1bp off,,,,,alternative acceptor
+NM_001206999.1:c.1111+1G>A,12,119822819,C,T,-,1,Maddirevula et al. [PM27503289 ],Skipping; r.1058_1111del:p.(Gly353_Ser371delinsAla),Strauch: Removed annotation 'p.(Gly353_371delinsAla)' from ID,119822973,119822820,,,skip
+NM_001206999.1:c.753+3A>T,12,119832768,T,A,-,1,Maddirevula et al. [PM27503289],Skipping; r.660_753del;p.(Asp221*),Strauch: Removed annotation 'p.(Asp221*)' from ID,119832864,119832771,,,skip
+NM_024809.3:c.1506-2A>G,12,123699702,A,G,+,1,Maddirevula et al. [PM21462283],Skipping; r.1506_1612del:1505_1506ins1506-104_1506-2,,123699704,123699810,,,skip
+NM_018451.3:c.3302-1G>C,13,24885671,C,G,-,1,Maddirevula et al. [PM20522431],Skipping; r.3302_3366del:p.(Asn1102Cysfs*8);r.3302_3477del;p.(Asn1102Glyfs*5);r.3217_3366del:p.(Asn1073_Gln1122del),,24885670,24885606,,,skip
+NM_016529.4:c.322-1G>T,13,25530561,G,T,+,1,Maddirevula et al.,Skipping; r.222_322del:p.?,,25530562,25530660,,,skip
+NM_000059.3:c.-40+1G>A,13,32315668,G,A,+,1,Leman et al. [PM24395671],Use of a cryptic site 99 nt upstream from 5' ss,,,32315667,,32315568,alternative donor
+NM_000059.3:c.-39-9_-39-7del,13,32316413,GTTT,T,+,0,Leman et al. [PM17011978],,,,,,,normal
+NM_000059.3:c.-39-5del,13,32316417,TG,G,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.-39-1G>A,13,32316421,G,A,+,1,Leman et al.,Exon 2 and exon 2and 3 skipped,,,,,,skip
+NM_000059.3:c.-11C>T,13,32316450,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.62A>G,13,32316522,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL with puromycin",,,,,normal
+NM_000059.3:c.67G>A,13,32316527,G,A,+,1,Leman et al.,Use of a cryptic site 4 nt upstream from 5' ss,,,32316527,,32316523,alternative donor
+NM_000059.3:c.67+1G>A,13,32316528,G,A,+,1,Leman et al. [PM17011978],exon 2 skipped,,32316422,32316527,,,skip
+NM_000059.3:c.67+1G>T,13,32316528,G,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 2 skipped,"Materials, Methods: LCL with puromycin",32316422,32316527,,,skip
+NM_000059.3:c.67+2T>C,13,32316529,T,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 2 skipped,"Materials, Methods: PAXgene",32316422,32316527,,,skip
+NM_000059.3:c.67+3A>G,13,32316530,A,G,+,1,Leman et al.,Exon 2 skipped and exon 2 and 3 skipped,,,,,,skip
+NM_000059.3:c.67+4T>C,13,32316531,T,C,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.68-7del,13,32319070,TA,A,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene, Minigene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_000059.3:c.68-7del; Houdayer et al.: NM_000059.3:c.68-7delT",,,,,normal
+NM_000059.3:c.68-7T>A,13,32319070,T,A,+,1,Leman et al. [Houdayer et al.],Exon 3 skipped,,32319077,32319325,,,skip
+NM_000059.3:c.79A>G,13,32319088,A,G,+,0,"Wai et al., Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.167A>C,13,32319176,A,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.213T>C,13,32319222,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.223G>C,13,32319232,G,C,+,0,"Wai et al., Houdayer et al.",No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.280C>T,13,32319289,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.316+5G>A,13,32319330,G,A,+,1,Leman et al. [PM21769658],exon 3 skipped,,32319077,32319325,,,skip
+NM_000059.3:c.316+5G>C,13,32319330,G,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 3 skipped,"Materials, Methods: PAXgene , Minigene LCL with puromycin",32319077,32319325,,,skip
+NM_000059.3:c.316+6T>C,13,32319331,T,C,+,1,Leman et al.,Exon 3 skipped,,32319077,32319325,,,skip
+NM_000059.3:c.317-12G>A,13,32325064,G,A,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.425G>T,13,32325184,G,T,+,1,Leman et al. [PM21638052],exon 4 skipped,,32325076,32325184,,,skip
+NM_000059.3:c.425+33A>G,13,32325217,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL with puromycin",,,,,normal
+NM_000059.3:c.426-24G>A,13,32326077,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.426-12_426-8del,13,32326089,GTTTTA,A,+,1,"Leman et al. [PM20215541, PM19070627, PM21394826]",exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.426-2A>T,13,32326099,A,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 5 skipped,"Materials, Methods: lymphocytes without puromycin",32326101,32326150,,,skip
+NM_000059.3:c.433_435delGTT,13,32326108,GTTC,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.441A>G,13,32326116,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.467A>G,13,32326142,A,G,+,1,Houdayer et al.,use of the 5' de novo site 9nt upstream from the wild type 5'ss,"Materials, Methods: LCL with puromycin; Strauch: Changed observation to 9nt ustream (from 10nt upsteam in the original publication)",,32326150,,32326141,alternative donor
+NM_000059.3:c.470_474del,13,32326145,AGTCAG,G,+,1,Leman et al. [PM20215541],exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.473C>T,13,32326148,C,T,+,1,Leman et al. [PM20215541],exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.475G>A,13,32326150,G,A,+,1,Leman et al. [PM18489799],exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.475+1G>A,13,32326151,G,A,+,1,Leman et al. [PM23451180],exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.475+3A>G,13,32326153,A,G,+,1,Leman et al.,Exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.475+3A>T,13,32326153,A,T,+,1,Leman et al.,Exon 5 skipped,,32326101,32326150,,,skip
+NM_000059.3:c.475+4del,13,32326154,TG,G,+,1,Wai et al.,Upstream Skipped Exon,Strauch: Original position annotation is 1bp off,32326101,32326150,,,skip
+NM_000059.3:c.475+8dup,13,32326158,T,TT,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.475+26T>C,13,32326176,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.476-24A>G,13,32326218,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.476-9dup,13,32326233,T,TT,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.476-3C>A,13,32326239,C,A,+,1,Leman et al.,Exon 5 and 6 skipped,,,,,,skip
+NM_000059.3:c.476-2A>G,13,32326240,A,G,+,1,"Leman et al. [PM23451180, PM18489799]","exon 5 skipped and exons 5, 6 skipped",Variant with different raported splicing effect,,,,,skip
+NM_000059.3:c.506A>G,13,32326272,A,G,+,0,"Wai et al., Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.516G>A,13,32326282,G,A,+,1,Leman et al. [PM19267246],"exon 6 skipped and exons 5, 6 skipped",,,,,,skip
+NM_000059.3:c.516+1G>A,13,32326283,G,A,+,1,Leman et al. [PM12759930],"exon 6 skipped and exons 5, 6 skipped",,,,,,skip
+NM_000059.3:c.516+1G>T,13,32326283,G,T,+,1,Leman et al. [PM21394826],"Use of a cryptic site 39 nt upstream from 5' ss and exon 6 skipped and exons 6, 7 skipped",,,,,,multiple
+NM_000059.3:c.516+2T>C,13,32326284,T,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 6 skipped,"Materials, Methods: PAXgene",32326242,32326282,,,skip
+NM_000059.3:c.516+4_516+5del,13,32326286,AAT,T,+,1,Leman et al.,Exon 6 and exon 5 and 6 skipped,,,,,,skip
+NM_000059.3:c.516+14C>T,13,32326296,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.516+21A>T,13,32326303,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.517-19C>T,13,32326480,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.517-2A>G,13,32326497,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 7 skipped,"Materials, Methods: PAXgene",32326499,32326613,,,skip
+NM_000059.3:c.517-1G>A,13,32326498,G,A,+,1,Leman et al. [PM21735045],exon 7 skipped,,32326499,32326613,,,skip
+NM_000059.3:c.517G>T,13,32326499,G,T,+,1,Leman et al. [PM22962691],exon 7 skipped,,32326499,32326613,,,skip
+NM_000059.3:c.518del,13,32326500,GT,T,+,0,Leman et al. [PM23983145],,,,,,,normal
+NM_000059.3:c.518G>T,13,32326500,G,T,+,0,"Leman et al. [PM23983145, PM20215541]",,Variant with different raported splicing effect,,,,,normal
+NM_000059.3:c.520C>T,13,32326502,C,T,+,1,Wai et al.,Upstream Skipped Exon,Strauch: Effect annotation was corrected to be upstream (coordinated with original authors),32326499,32326613,,,skip
+NM_000059.3:c.521G>A,13,32326503,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.573T>C,13,32326555,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.598A>G,13,32326580,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.617C>G,13,32326599,C,G,+,1,Houdayer et al.,Partial exon 7 skipping,"Materials, Methods: PAXgene, Minigene",32326499,32326613,,,skip
+NM_000059.3:c.631G>A,13,32326613,G,A,+,1,Leman et al.,Exon 7 skipped,,32326499,32326613,,,skip
+NM_000059.3:c.631+2T>G,13,32326615,T,G,+,1,Leman et al. [PM11185744],exon 7 skipped,,32326499,32326613,,,skip
+NM_000059.3:c.631+3A>G,13,32326616,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 7 skipped,"Materials, Methods: LCL with or without puromycin",32326499,32326613,,,skip
+NM_000059.3:c.631+4A>G,13,32326617,A,G,+,1,Leman et al. [PM20455026],exon 7 skipped,,32326499,32326613,,,skip
+NM_000059.3:c.631+25C>T,13,32326638,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.632-69T>C,13,32329374,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.632-9A>G,13,32329434,A,G,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.632-3C>G,13,32329440,C,G,+,1,"Wai et al., Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 2 nt upstream from 3' ss; Wai et al.: Intronic Alternative 3' Splice Site; Houdayer et al.: Use of a de novo site 3nt upstream from 3'ss,"Materials, Methods: LCL without puromycin; Strauch: Variant effect assumed to be 2nt",32329443,,32329441,,alternative acceptor
+NM_000059.3:c.632-1G>A,13,32329442,G,A,+,1,Leman et al. [PM16211554],exon 8 skipped,,32329443,32329492,,,skip
+NM_000059.3:c.633C>T,13,32329444,C,T,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.680C>T,13,32329491,C,T,+,0,Leman et al. [PM24123850],,,,,,,normal
+NM_000059.3:c.681+1G>A,13,32329493,G,A,+,1,Wai et al.,Triple Skipped Exon upstream and downstream,,,,,,skip
+NM_000059.3:c.681+4A>G,13,32329496,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 4 nt downstream from 5' ss; Houdayer et al.: Use of a de novo site 4nt downstream from 5'ss,"Materials, Methods: LCL without puromycin",,32329492,,32329496,alternative donor
+NM_000059.3:c.681+7A>T,13,32329499,A,T,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.682-12_682-11del,13,32330907,TAA,A,+,0,"Leman et al. [PM21394826, PM18824701]",,,,,,,normal
+NM_000059.3:c.682-12del,13,32330907,TA,A,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_000059.3:c.682-12del; Houdayer et al.: NM_000059.3:c.682-12delT",,,,,normal
+NM_000059.3:c.682-9T>C,13,32330910,T,C,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.682-4G>C,13,32330915,G,C,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.682-2A>C,13,32330917,A,C,+,1,Leman et al. [PM24607278],Use of a cryptic site 73 nt downstream of 3' ss and exon 9 skipped,,,,,,multiple
+NM_000059.3:c.682-2A>G,13,32330917,A,G,+,1,Leman et al. [PM24123850],Use of a cryptic site 73 nt downstream of 3' ss and exon 9 skipped,,,,,,multiple
+NM_000059.3:c.730G>A,13,32330967,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.772C>A,13,32331009,C,A,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.793+1G>C,13,32331031,G,C,+,1,Leman et al.,Exon 9 skipped,,32330919,32331030,,,skip
+NM_000059.3:c.793+46G>A,13,32331076,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.794-11T>C,13,32332261,T,C,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.794-5_794-4insT,13,32332267,A,AT,+,0,Leman et al. [PM12759930],,,,,,,normal
+NM_000059.3:c.1127T>G,13,32332605,T,G,+,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_000059.3:c.1151C>T,13,32332629,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.1241T>G,13,32332719,T,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.1291A>C,13,32332769,A,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.1395A>C,13,32332873,A,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.1480G>A,13,32332958,G,A,+,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_000059.3:c.1514T>C,13,32332992,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.1666A>G,13,32333144,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.1792A>G,13,32333270,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.1804G>A,13,32333282,G,A,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.1910-51G>T,13,32336214,G,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.1936A>C,13,32336291,A,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.2803G>C,13,32337158,G,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.2810A>C,13,32337165,A,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.3032C>G,13,32337387,C,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.3073A>G,13,32337428,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.6841+1del,13,32341197,GT,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 11 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_000059.3:c.6841+1del; Houdayer et al.: NM_000059.3:c.6841+1delG",32336265,32341196,,,skip
+NM_000059.3:c.6935A>T,13,32344651,A,T,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: Stimulated T lymphocytes with puromycin",,,,,normal
+NM_000059.3:c.6937+1G>T,13,32344654,G,T,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.6937+74C>G,13,32344727,C,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.6938-26T>C,13,32346801,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.6938-9_6938-6del,13,32346818,GTTTC,C,+,0,Leman et al. [PM17011978],,,,,,,normal
+NM_000059.3:c.6938-4C>T,13,32346823,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.6938-3T>C,13,32346824,T,C,+,0,Leman et al. [PM21638052],,,,,,,normal
+NM_000059.3:c.7006C>T,13,32346895,C,T,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.7007G>A,13,32346896,G,A,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 13 and exon 12 and 13 skipped; Houdayer et al.: Exons 12 and 13 skipped (increase of alternative splicing),"Materials, Methods: PAXgene",,,,,multiple
+NM_000059.3:c.7007G>C,13,32346896,G,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 12 and 13 skipped; Houdayer et al.: Exons 12 and 13 skipped (increase of alternative splicing),"Materials, Methods: LCL without puromycin",,,,,multiple
+NM_000059.3:c.7007+1G>C,13,32346897,G,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 13 and exon 12 and 13 skipped; Houdayer et al.: Exon 13 skipped,"Materials, Methods: LCL with puromycin",,,,,skip
+NM_000059.3:c.7007+34A>G,13,32346930,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7008-62A>G,13,32354799,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7008-44A>G,13,32354817,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7008-44A>T,13,32354817,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7008-2A>G,13,32354859,A,G,+,1,Leman et al. [PM17011978],exon 14 skipped,,32354861,32355288,,,skip
+NM_000059.3:c.7008-2A>T,13,32354859,A,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 10 nt upstream from 3' ss; Houdayer et al.: Use of a cryptic site 10nt downstream from 3'ss,"Materials, Methods: PAXgene; Strauch: Variant effect assumed to be downstream",32354861,,32354871,,alternative acceptor
+NM_000059.3:c.7017G>C,13,32354870,G,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL without puromycin",,,,,normal
+NM_000059.3:c.7021C>T,13,32354874,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.7053A>T,13,32354906,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7242A>T,13,32355095,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7319A>G,13,32355172,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL without puromycin",,,,,normal
+NM_000059.3:c.7435+6G>A,13,32355294,G,A,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.7435+8A>G,13,32355296,A,G,+,0,Leman et al. [PM24123850],,,,,,,normal
+NM_000059.3:c.7435+14A>G,13,32355302,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7436-4A>T,13,32356424,A,T,+,0,Leman et al.,,,,,,,normal
+NM_000059.3:c.7436-2A>G,13,32356426,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 13 nt downstream from 3' ss; Houdayer et al.: Use of a cryptic site 13nt downstream from 3'ss,"Materials, Methods: LCL without puromycin",32356428,,32356441,,alternative acceptor
+NM_000059.3:c.7436-2A>T,13,32356426,A,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 13 nt downstream from 3' ss; Houdayer et al.: Use of a cryptic site 13nt downstream from 3'ss,"Materials, Methods: several experiments for the same mutation: lymphocytes without puromycin, LCL with puromycin",32356428,,32356441,,alternative acceptor
+NM_000059.3:c.7463G>A,13,32356455,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.7504C>T,13,32356496,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7505G>A,13,32356497,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7559G>A,13,32356551,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7586G>A,13,32356578,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7610A>G,13,32356602,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.7617G>A,13,32356609,G,A,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7617+1G>A,13,32356610,G,A,+,1,"Leman et al. [PM18712473, PM18006916, PM24123850]",exon 15 skipped,,32356428,32356609,,,skip
+NM_000059.3:c.7617+1G>T,13,32356610,G,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 15 skipped,"Materials, Methods: LCL without puromycin",32356428,32356609,,,skip
+NM_000059.3:c.7617+2T>G,13,32356611,T,G,+,1,Leman et al. [PM18693280],exon 15 skipped,,32356428,32356609,,,skip
+NM_000059.3:c.7617+14_7617+15delTA,13,32356623,TAC,C,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7618-1G>A,13,32357741,G,A,+,1,Leman et al. [PM21394826],Use of a cryptic site 45 nt downstream from 3' ss and exon 16 skipped,,,,,,multiple
+NM_000059.3:c.7632C>T,13,32357756,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7683G>A,13,32357807,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.7795_7797delGAA,13,32357919,GAAT,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7805G>C,13,32357929,G,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 16 skipped and use of a cryptic site 10 nt upstream from 3' ss; Houdayer et al.: Exon 16 skipped and loss of the 10 last bases of exon 16,"Materials, Methods: PAXgene LCL with puromycin",,,,,multiple
+NM_000059.3:c.7805+6C>G,13,32357935,C,G,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7806-40A>G,13,32362483,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.7806-15delC,13,32362508,CT,T,+,0,Houdayer et al.,No change,"Materials, Methods: LCL without puromycin",,,,,normal
+NM_000059.3:c.7806-9T>G,13,32362514,T,G,+,1,Leman et al. [PM17657584],Use of a cryptic site 69 nt downstream from 3' ss and exon 17 skipped,,,,,,multiple
+NM_000059.3:c.7806-2A>G,13,32362521,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 20 nt downstream from 3' ss; Houdayer et al.: Use of a cryptic site 20nt downstream from 3'ss,"Materials, Methods: LCL with puromycin",32362523,,32362543,,alternative acceptor
+NM_000059.3:c.7807G>C,13,32362524,G,C,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7820C>T,13,32362537,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7822C>G,13,32362539,C,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.7928C>G,13,32362645,C,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene, LCL without puromycin",,,,,normal
+NM_000059.3:c.7933A>G,13,32362650,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7954_7956delGTG,13,32362671,GTGC,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.7975A>G,13,32362692,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 17 skipped and exon 17 and 18 skipped; Houdayer et al.: Exon 17 skipping of low intensity,"Materials, Methods: PAXgene",,,,,skip
+NM_000059.3:c.7976G>A,13,32362693,G,A,+,1,"Leman et al. [PM18451181, PM12624152]",exon 17 skipped,,32362523,32362693,,,skip
+NM_000059.3:c.7976G>C,13,32362693,G,C,+,1,Leman et al.,Exon 17 skipped,,32362523,32362693,,,skip
+NM_000059.3:c.7976+3_7976+4del,13,32362696,AAG,G,+,1,Leman et al. [PM21638052],exon 17 skipped,,32362523,32362693,,,skip
+NM_000059.3:c.7976+5G>T,13,32362698,G,T,+,0,Leman et al. [PM24123850],,,,,,,normal
+NM_000059.3:c.7976+23C>T,13,32362716,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.7976+35C>A,13,32362728,C,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL with puromycin",,,,,normal
+NM_000059.3:c.7977-7C>G,13,32363172,C,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 18 skipped and use of cryptic site 7 nt upstream from 3' ss; Houdayer et al.: Exon 18 skipped (inframe) and use of a de novo site 7nt upstream from 3'ss,"Materials, Methods: PAXgene, Minigene, LCL without puromycin",,,,,multiple
+NM_000059.3:c.7977-6T>G,13,32363173,T,G,+,1,Leman et al.,Exon 18 skipped,,32363179,32363533,,,skip
+NM_000059.3:c.7977-4_7977-3del,13,32363175,TTA,A,+,0,Leman et al. [PM16619214],,,,,,,normal
+NM_000059.3:c.7977-1G>C,13,32363178,G,C,+,1,Leman et al. [PM16211554],"exon 18 skipped and exons 17, 18 skipped",,,,,,skip
+NM_000059.3:c.7994A>G,13,32363196,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.8023A>G,13,32363225,A,G,+,1,Houdayer et al.,"Use of the 5' de novo site, 309bp upstream from the wild type 5'ss","Materials, Methods: PAXgene, Minigene",,32363533,,32363224,alternative donor
+NM_000059.3:c.8057T>C,13,32363259,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.8162T>G,13,32363364,T,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.8167G>C,13,32363369,G,C,+,0,Houdayer et al.,No change,"Materials, Methods: stimulated T lymphocytes with puromycin",,,,,normal
+NM_000059.3:c.8168A>G,13,32363370,A,G,+,1,Houdayer et al.,"Use of the 5' de novo site, 164 bp upstream from the wild type 5'ss","Materials, Methods: PAXgene",,32363533,,32363369,alternative donor
+NM_000059.3:c.8168A>T,13,32363370,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8182G>A,13,32363384,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL with puromycin",,,,,normal
+NM_000059.3:c.8192A>G,13,32363394,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.8258T>C,13,32363460,T,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.8331G>A,13,32363533,G,A,+,1,Leman et al. [PM20215541],exon 18 skipped,,32363179,32363533,,,skip
+NM_000059.3:c.8331+2T>C,13,32363535,T,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.8331+22G>C,13,32363555,G,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.8332-54T>G,13,32370348,T,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.8332-1G>A,13,32370401,G,A,+,1,Leman et al. [PM21735045],Use of a cryptic site 14 nt downstream from 3' ss,,32370402,,32370416,,alternative acceptor
+NM_000059.3:c.8378G>T,13,32370448,G,T,+,1,Wai et al.,Downstream Skipped Exon,,32370402,32370557,,,skip
+NM_000059.3:c.8386C>T,13,32370456,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8460A>C,13,32370530,A,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8460A>G,13,32370530,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.8486A>G,13,32370556,A,G,+,1,"Wai et al., Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 19 skipped; Wai et al.: Upstream Skipped Exon; Houdayer et al.: Exon 19 skipped (inframe),"Materials, Methods: lymphocytes",32370402,32370557,,,skip
+NM_000059.3:c.8486A>T,13,32370556,A,T,+,1,"Leman et al. [PM22632462, PM25382762]",exon 19 skipped,,32370402,32370557,,,skip
+NM_000059.3:c.8487G>A,13,32370557,G,A,+,1,Leman et al. [PM22632462],exon 19 skipped,,32370402,32370557,,,skip
+NM_000059.3:c.8487G>C,13,32370557,G,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Exon 19 skipped; Houdayer et al.: Exon 19 skipped (inframe),"Materials, Methods: PAXgene",,,,,skip
+NM_000059.3:c.8487+1G>A,13,32370558,G,A,+,1,"Leman et al. [PM22632462, PM16619214, PM12606139]",exon 19 skipped,,32370402,32370557,,,skip
+NM_000059.3:c.8487+2T>C,13,32370559,T,C,+,1,Leman et al.,Exon 19 skipped,,32370402,32370557,,,skip
+NM_000059.3:c.8487+3A>G,13,32370560,A,G,+,1,Leman et al.,Exon 19 skipped,,32370402,32370557,,,skip
+NM_000059.3:c.8487+8G>A,13,32370565,G,A,+,0,Leman et al. [PM21394826],,,,,,,normal
+NM_000059.3:c.8487+81C>T,13,32370638,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8487+104G>A,13,32370661,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8488-2A>G,13,32370954,A,G,+,1,Leman et al. [PM22632462],Use of a cryptic site 12 nt downstream from 3' ss and a cryptic site 1053 nt upstream from 3' ss,,,,,,alternative acceptor
+NM_000059.3:c.8488-1G>A,13,32370955,G,A,+,1,"Leman et al. [PM24607278, PM22632462, PM12065746]",Use of a cryptic site 12 nt downstream from 3' ss and exon 20 skipped,Variant with different raported splicing effect,,,,,multiple
+NM_000059.3:c.8503T>C,13,32370971,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8632+1G>A,13,32371101,G,A,+,1,Leman et al. [PM16211554],exon 20 skipped,,32370956,32371100,,,skip
+NM_000059.3:c.8633-24_8634del,13,32376646,TTAATAATCCTTTTGTTTTCTTAGAAA,A,+,1,Leman et al. [PM25382762],exon 21 skipped,,32376670,32376791,,,skip
+NM_000059.3:c.8633-16C>G,13,32376654,C,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL without puromycin",,,,,normal
+NM_000059.3:c.8633-2A>G,13,32376668,A,G,+,1,Leman et al. [PM16619214],Use of a cryptic site 43 nt downstreram from 3' ss and a cryptic site 93 nt upstream from 3' ss,,,,,,alternative acceptor
+NM_000059.3:c.8686C>T,13,32376723,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8754G>A,13,32376791,G,A,+,1,Leman et al. [PM25382762],Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8754G>C,13,32376791,G,C,+,1,Leman et al.,Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8754+1G>A,13,32376792,G,A,+,1,Leman et al. [PM19267246],Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8754+1G>C,13,32376792,G,C,+,1,Leman et al. [PM19267246],Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8754+3G>C,13,32376794,G,C,+,1,"Leman et al. [PM21638052, PM23451180, PM21769658]",Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8754+4A>G,13,32376795,A,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 47 nt downstream from 5' ss; Houdayer et al.: Use of a cryptic site 47nt downstream from 5'ss,"Materials, Methods: lymphocytes; Strauch: Variant effect assumed to be downstream 5'+46",,32376791,,32376837,alternative donor
+NM_000059.3:c.8754+5G>A,13,32376796,G,A,+,1,"Leman et al. [PM25382762, PM18693280]",Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8754+5G>T,13,32376796,G,T,+,1,Leman et al. [PM25382762],Use of a cryptic site 46 nt downstream from 5' ss,,,32376791,,32376837,alternative donor
+NM_000059.3:c.8755-1G>A,13,32379316,G,A,+,1,"Leman et al. [PM25382762, PM18489799, PM23451180]",exon 22 skipped,Variant with different raported splicing effect,32379317,32379515,,,skip
+NM_000059.3:c.8799G>A,13,32379361,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8830A>T,13,32379392,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.8850G>T,13,32379412,G,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8851G>A,13,32379413,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8851G>T,13,32379413,G,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8893G>T,13,32379455,G,T,+,1,Houdayer et al.,"Use of the 5' de novo site, 62 bp upstream from the wild type 5'ss","Materials, Methods: PAXgene, LCL with puromycin; Strauch: Variant effect changed to 62 upstream (was 61 upstream in the original publication)",,32379515,,32379453,alternative donor
+NM_000059.3:c.8948_8953+5del,13,32379510,ATTCAGGTAAGT,T,+,1,Leman et al. [PM25382762],exon 22 skipped,,32379317,32379515,,,skip
+NM_000059.3:c.8953+1G>T,13,32379516,G,T,+,1,"Leman et al. [PM21394826, PM25382762]",Use of a cryptic site 31 nt upstream from 5' ss and exon 22 skipped,Variant with different raported splicing effect,,,,,multiple
+NM_000059.3:c.8953+2T>G,13,32379517,T,G,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 22 skipped,"Materials, Methods: LCL with puromycin",32379317,32379515,,,skip
+NM_000059.3:c.8953+98T>C,13,32379613,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.8954-5A>G,13,32379745,A,G,+,1,Leman et al.,Use of a cryptic site 4 nt upstream from 3' ss,,32379750,,32379746,,alternative acceptor
+NM_000059.3:c.8954-3C>G,13,32379747,C,G,+,1,Leman et al. [PM22632462],Use of a cryptic site 2 nt upstream from 3' ss,,32379750,,32379748,,alternative acceptor
+NM_000059.3:c.8954-1_8955delinsAA,13,32379749,GTT,AA,+,1,"Leman et al. [PM22632462, PM23451180]",Use of a cryptic site 51 nt downstream from 3' ss and exon 23 skipped,,,,,,multiple
+NM_000059.3:c.8963G>A,13,32379759,G,A,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9038C>T,13,32379834,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL with puromycin",,,,,normal
+NM_000059.3:c.9048_9053del,13,32379844,TAAAAGT,T,+,0,Houdayer et al.,No change,"Materials, Methods:",,,,,normal
+NM_000059.3:c.9084_9086delAGC,13,32379880,AGCG,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.9104A>C,13,32379900,A,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9104A>G,13,32379900,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9108A>G,13,32379904,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.9116C>T,13,32379912,C,T,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene LCL with puromycin",,,,,normal
+NM_000059.3:c.9117G>A,13,32379913,G,A,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 23 skipped,"Materials, Methods: PAXgene LCL with puromycin stimulated T lymphocytes with puromycin",32379750,32379913,,,skip
+NM_000059.3:c.9117+1G>A,13,32379914,G,A,+,1,Leman et al. [PM22632462],exon 23 skipped,,32379750,32379913,,,skip
+NM_000059.3:c.9117+1G>T,13,32379914,G,T,+,1,"Leman et al. [PM22632462, PM10534775]",exon 23 skipped,,32379750,32379913,,,skip
+NM_000059.3:c.9117+2T>A,13,32379915,T,A,+,1,Leman et al. [PM18489799],exon 23 skipped,,32379750,32379913,,,skip
+NM_000059.3:c.9117+2T>C,13,32379915,T,C,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 23 skipped,"Materials, Methods: LCL without puromycin",32379750,32379913,,,skip
+NM_000059.3:c.9118-4_9118-2delinsTTT,13,32380003,GTA,TTT,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Leman et al. [Houdayer et al.]: Use of a cryptic site 7 nt downstream from 3' ss; Houdayer et al.: Use of a de novo site 7nt downstream from 3'ss,"Materials, Methods: LCL with puromycin",32380007,,32380014,,alternative acceptor
+NM_000059.3:c.9118-2A>G,13,32380005,A,G,+,1,"Leman et al. [PM18489799, PM12759930, PM22632462]",Use of a cryptic site 7 nt downstream from 3' ss,Variant with different raported splicing effect,32380007,,32380014,,alternative acceptor
+NM_000059.3:c.9216G>A,13,32380105,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.9218A>G,13,32380107,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.9242T>C,13,32380131,T,C,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9249_9256+8del,13,32380138,AAAAACAGGTAATGCAC,C,+,1,Leman et al. [PM22632462],Use of a cryptic site 43 nt upstream from 5' ss and exon 24 skipped,,,,,,multiple
+NM_000059.3:c.9256G>T,13,32380145,G,T,+,1,Leman et al. [PM22632462],Use of a cryptic site 43 nt upstream from 5' ss and exon 24 skipped,,,,,,multiple
+NM_000059.3:c.9256+1G>A,13,32380146,G,A,+,1,"Leman et al. [PM12759930, PM22632462, PM25382762]",exon 24 skipped,Variant with different raported splicing effect,32380007,32380145,,,skip
+NM_000059.3:c.9256+58A>T,13,32380203,A,T,+,0,Houdayer et al.,No change,"Materials, Methods: stimulated T lymphocytes with puromycin",,,,,normal
+NM_000059.3:c.9257-113T>G,13,32394576,T,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.9257-83G>A,13,32394606,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.9257-16T>C,13,32394673,T,C,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.9257-10dup,13,32394679,T,TT,+,0,Leman et al. [Houdayer et al.],,,,,,,normal
+NM_000059.3:c.9257-1G>C,13,32394688,G,C,+,1,"Leman et al. [PM21394826, PM25382762]",Use of a cryptic site 27 nt downstream from 3' ss and exon 25 skipped,Variant with different raported splicing effect,,,,,multiple
+NM_000059.3:c.9275A>G,13,32394707,A,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.9367A>G,13,32394799,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9456G>T,13,32394888,G,T,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9501+3A>T,13,32394936,A,T,+,1,"Leman et al. [Houdayer et al.], Houdayer et al.",Exon 25 skipped,"Materials, Methods: PAXgene, Minigene",32394689,32394933,,,skip
+NM_000059.3:c.9501+4A>G,13,32394937,A,G,+,0,"Leman et al. [Houdayer et al.], Houdayer et al.",No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.9501+9A>C,13,32394942,A,C,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.9502-13C>G,13,32396885,C,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9502-12T>G,13,32396886,T,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene LCL with or without puromycin",,,,,normal
+NM_000059.3:c.9502-2A>C,13,32396896,A,C,+,1,Leman et al. [PM25382762],Use of a cryptic site 70 nt upstream from 3' ss and exon 26 skipped,,,,,,multiple
+NM_000059.3:c.9550C>G,13,32396946,C,G,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.9586A>G,13,32396982,A,G,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9604C>T,13,32397000,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000059.3:c.9605C>T,13,32397001,C,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_000059.3:c.9649-65_9649-62delACTT,13,32398097,ACTTT,T,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.9649-20C>T,13,32398142,C,T,+,0,Houdayer et al.,No change,"Houdayer et al.: Materials, Methods: LCL with or without puromycin AND PAXgene",,,,,normal
+NM_000059.3:c.9649-2A>G,13,32398160,A,G,+,1,Leman et al. [PM25382762],Use of a cryptic site 62 nt downstream from 3' ss,,32398162,,32398224,,alternative acceptor
+NM_000059.3:c.9730G>A,13,32398243,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_000059.3:c.9905G>A,13,32398418,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.10045A>G,13,32398558,A,G,+,0,"Wai et al., Houdayer et al.",No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.10095delCinsGAATTATATCT,13,32398608,C,GAATTATATCT,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL without puromycin",,,,,normal
+NM_000059.3:c.10110G>A,13,32398623,G,A,+,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_000059.3:c.10249T>C,13,32398762,T,C,+,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_001142294.1:c.988A>G,13,36331419,T,C,-,1,Maddirevula et al. [PM27431290],Skipping; r.986_1008del:p.(Gln329Argfs*11),Strauch: Removed annotation 'p.(Met330Val)' from ID,36331596,36331399,,,skip
+NM_020751.2:c.695-8T>G,13,39682163,T,G,+,1,Maddirevula et al.,Skipping; r.695_788del:p.(Ser232Asnfs*4);r.694_695insTTTTCAG:p.(Ser232IlefsTer4); c.698_1012del;p.(Glu233_Gly337del)],,39682171,39682264,,,skip
+NM_020751.2:c.1167-24A>G,13,39699477,A,G,+,1,Maddirevula et al. [PM23606727],Retention; r.1166_1167ins-1167-37_1167-2:p.?,,,,,,retention
+NM_000321.2:c.1389+5G>C,13,48379655,G,C,+,1,MutSpliceDB,Exon 14 skipping,,48379594,48379650,,,skip
+NM_000321.2:c.2211+5G>T,13,48463840,G,T,+,1,MutSpliceDB,Exon 21 skipping,,48463731,48463835,,,skip
+NM_001845.4:c.324+1G>A,13,110212573,C,T,-,1,Wai et al.,Upstream Skipped Exon,,110212618,110212574,,,skip
+NM_020366.3:c.491-386C>T,14,21302102,C,T,+,0,Ellingford et al. [100K],,,,,,,normal
+NM_000359.2:c.758-1G>C,14,24260059,C,G,-,1,Maddirevula et al.,Skipping; r.758_759del:p.(Glu253Glyfs*8),,24260058,24259940,,,skip
+NM_182894.2:c.456-6C>G,14,74245159,C,G,+,1,Maddirevula et al.,Skipping; r.456_477:(p.(Arg152Serfs*2);r.456_579del:p.(Thr153Serfs*108)),,74245165,74245288,,,skip
+NM_013382.5:c.1006+1G>A,14,77298688,C,T,-,1,Maddirevula et al.,Retention; r.1005_1006Ins1005-275_1005_213:p.(His336Profs*56);r.1168_1172 delCATA:p.(His390fs),,,,,,retention
+NM_013382.5:c.817-394A>G,14,77299955,T,C,-,1,Maddirevula et al.,Retention,Strauch: Changed ID from 'NM_013382.5c.817-394A>G',,,,,retention
+NM_030621.4:c.1509G>A,14,95117622,C,T,-,1,Wai et al.,Upstream Skipped Exon,,95117754,95117622,,,skip
+NM_002420.5:c.899+29G>A,15,31063089,C,T,-,1,Ellingford et al. [100K],"cryptic splice site, intron inclusion: NM_002420.5:r.899_900ins899+1_899+3",,,,,,multiple
+NM_018163.2:c.681G>A,15,40774356,C,T,-,1,Maddirevula et al. [PM26355662],Skipping; r.601_681del:p.(Tyr201_Ala227del),,40774436,40774356,,,skip
+NM_019074.3:c.1944-2del,15,40937416,AG,G,+,1,Maddirevula et al.,Skipping; r.1944del:p.(Ser648Argfs*24),,40937418,40937526,,,skip
+NM_000138.4:c.8149G>A,15,48412646,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.8037C>G,15,48415550,G,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7916A>G,15,48415671,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7754T>C,15,48420752,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7664G>T,15,48421593,C,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7633C>T,15,48421624,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7606G>A,15,48421651,C,T,-,1,Wai et al.,Exonic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_000138.4:c.7582T>C,15,48421675,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7570+2T>G,15,48421950,A,C,-,1,Wai et al.,Upstream Skipped Exon,,48422068,48421952,,,skip
+NM_000138.4:c.7379A>G,15,48425443,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7204+7C>G,15,48427560,G,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.7204G>C,15,48427567,C,G,-,1,Wai et al.,Upstream Skipped Exon,,48427773,48427567,,,skip
+NM_000138.4:c.7203A>G,15,48427568,T,C,-,1,Wai et al.,Upstream Skipped Exon,,48427773,48427567,,,skip
+NM_000138.4:c.7003C>T,15,48427768,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.6872-1G>A,15,48428472,C,T,-,0,Maddirevula et al.,,,,,,,normal
+NM_000138.4:c.6815A>G,15,48430727,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.6740-3C>G,15,48430805,G,C,-,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_000138.4:c.6694T>C,15,48432911,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.6453C>T,15,48437004,G,A,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000138.4:c.6313+3A>T,15,48437765,T,A,-,1,Wai et al.,Intronic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000138.4:c.6251G>C,15,48437830,C,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.6164-3C>T,15,48437920,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.6158G>A,15,48441726,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.6031T>G,15,48444547,A,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5926G>A,15,48444652,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5834G>A,15,48445459,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5789A>G,15,48445504,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5788+5G>A,15,48446701,C,T,-,1,Wai et al.,Upstream Skipped Exon,,48446822,48446706,,,skip
+NM_000138.4:c.5707G>A,15,48446787,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5678A>G,15,48446816,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5627G>A,15,48448812,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5497T>C,15,48452610,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5377T>C,15,48456682,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5372G>T,15,48456687,C,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.5296G>A,15,48460246,C,T,-,1,Wai et al.,Upstream Skipped Exon,,48460317,48460246,,,skip
+NM_000138.4:c.5021G>A,15,48463943,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.4942+3_4942+9del,15,48465559,ACCATTTA,A,-,1,Wai et al.,Intronic Alternative 5' Splice Site,Strauch: Original position annotation is 1bp off,,,,,alternative donor
+NM_000138.4:c.4780G>A,15,48465826,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.4747+5G>A,15,48467933,C,T,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000138.4:c.4582+5_4582+12del,15,48468400,TTAAGGTCT,T,-,1,Wai et al.,Upstream Skipped Exon,Strauch: Original position annotation is 1bp off,48468534,48468412,,,skip
+NM_000138.4:c.4582G>T,15,48468412,C,A,-,1,Wai et al.,Upstream Skipped Exon,,48468534,48468412,,,skip
+NM_000138.4:c.4343A>G,15,48470750,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.4337-48dup,15,48470803,T,TA,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.4096G>A,15,48474369,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.4031G>A,15,48474584,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.4027G>A,15,48474588,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3974A>T,15,48474641,T,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3964G>C,15,48481655,C,G,-,1,Wai et al.,Upstream Skipped Exon,,48481780,48481655,,,skip
+NM_000138.4:c.3963A>G,15,48481656,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3772C>T,15,48483884,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3713_3714delinsCA,15,48483942,GT,TG,-,0,Wai et al.,,Strauch: Original position annotation is 1bp off,,,,,normal
+NM_000138.4:c.3712G>A,15,48485374,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3533A>G,15,48487131,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3509G>A,15,48487155,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3463+3A>C,15,48487309,T,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3344A>G,15,48487431,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3332G>A,15,48488118,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3268C>T,15,48488182,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3209-13T>A,15,48488254,A,T,-,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_000138.4:c.3197G>C,15,48488379,C,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.3124G>C,15,48488452,C,G,-,0,Wai et al.,Normal (monoallelic expession),,,,,,normal
+NM_000138.4:c.2953G>A,15,48489980,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.2952C>A,15,48489981,G,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.2927G>A,15,48490006,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.2645C>T,15,48495155,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.2638G>A,15,48495162,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.2369G>A,15,48496150,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.2293G>A,15,48497266,C,T,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000138.4:c.1916G>A,15,48505069,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1909T>C,15,48505076,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1883G>A,15,48505102,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1846G>A,15,48505139,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1633C>T,15,48510125,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1595A>G,15,48510163,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1588G>A,15,48513549,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1510T>C,15,48513627,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1426T>A,15,48515429,A,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1169C>T,15,48516341,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.1148-2A>G,15,48516364,T,C,-,1,Wai et al.,"Upstream Skipped Exon, Exonic Alternative 3' Splice Site",,,,,,multiple
+NM_000138.4:c.989-1G>A,15,48520818,C,T,-,1,Wai et al.,Downstream Skipped Exon,Strauch: Annotation was corrected to be downstream (coordinated with original authors),48520817,48520659,,,skip
+NM_000138.4:c.736G>A,15,48537611,C,T,-,1,Wai et al.,Downstream Skipped Exon,Strauch: Annotation was corrected to be downstream (coordinated with original authors),48537808,48537611,,,skip
+NM_000138.4:c.640G>A,15,48537707,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.538+4A>G,15,48596279,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.442+1G>A,15,48600138,C,T,-,1,Wai et al.,Upstream Skipped Exon,,48600234,48600139,,,skip
+NM_000138.4:c.433T>C,15,48600148,A,G,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.364C>T,15,48600217,G,A,-,0,Wai et al.,,,,,,,normal
+NM_000138.4:c.247+9A>G,15,48613001,T,C,-,1,Wai et al.,Intronic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000138.4:c.184C>T,15,48613073,G,A,-,0,Wai et al.,,,,,,,normal
+NM_004855.4:c.847-10A>G,15,55340602,A,G,+,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_003922.3:c.12570G>A,15,63634733,C,T,-,1,Maddirevula et al.,Skipping; r.12485_12573del:p.(Asp4162Glyfs*43),,63634888,63634733,,,skip
+NM_005902.3:c.802C>T,15,67181384,C,T,+,0,Wai et al.,,,,,,,normal
+NM_000520.4:c.672+1G>T,15,72351132,C,A,-,1,Maddirevula et al.,Skipping; r.572_673del:p.(Asp191_Lys224del),,72351234,72351133,,,skip
+NM_033028.3:c.157-2A>G,15,72712242,A,G,+,1,Maddirevula et al. [PM19858128],Skipping; r.157_220del:p.(Ala53Hisfs*2),Strauch: Removed annotation 'p.(A53Hfs*2)' from ID,72712244,72712307,,,skip
+NM_001127716.1:c.737_739del,15,76225926,TTGT,T,-,1,Maddirevula et al.,Skipping; r.883_963del:p.(Thr295_Lys321del),Strauch: Removed annotation ':p.(Thr246del)' from ID,76225929,76225849,,,skip
+NM_001271.3:c.4138-6T>G,15,93002171,T,G,+,1,Wai et al.,Downstream Skipped Exon,,93002177,93002317,,,skip
+NM_001287.5:c.739-18G>A,16,1457355,C,T,-,1,Maddirevula et al.,Retention; r.747_748insCGTCACGCGTGTCTCTGAGCACCAGTCCTTCTGGTCTCCAGGAAGGGCCG:p.(Met250Argfs*6),Strauch: Removed annotation 'p.(Met250Argfs*6)' from ID,,,,,retention
+NM_014714.3:c.1525-1G>A,16,1571535,C,T,-,1,Maddirevula et al.,Skipping; r.1525_1652del:p.(Gly509Argfs*7),,1571534,1571407,,,skip
+NM_000548.3:c.3285-3C>G,16,2079554,C,G,+,1,MutSpliceDB,Intron inclusion between exons 28 & 29,,,,,,retention
+NM_000548.3:c.4492A>C,16,2084714,A,C,+,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_001009944.2:c.2853+2_2853+3del,16,2114167,CAC,C,-,1,Leman et al.,exon 11 skipping of strong intensity,,2114925,2114170,,,skip
+NM_001009944.2:c.1723-23T>C,16,2116141,A,G,-,0,Wai et al.,,,,,,,normal
+NM_024675.3:c.3201+5G>C,16,23613999,C,G,-,1,Wai et al.,Upstream Skipped Exon,,23614091,23614004,,,skip
+NM_024675.3:c.2514+2T>C,16,23629638,A,G,-,1,MutSpliceDB,Intron inclusion between exons 5 & 6,,,,,,retention
+NM_001605.2:c.2286G>A,16,70255728,C,T,-,1,Wai et al.,Intron Retention,,,,,,retention
+NM_001077418.2:c.665-11T>C,16,75541466,A,G,-,1,Maddirevula et al.,Skipping; r.665_879del:p.(Val222GlufsTer19),"Strauch: Removed annotation ',p. (Val222Glufs*19)' from ID",75541455,75541350,,,skip
+NM_016373.1:c.606-1G>A,16,78424869,G,A,+,1,Maddirevula et al.,Skipping; r.606_791del:p.(Pro203_Arg264del),,78424870,78425055,,,skip
+NM_001012759.1:c.282+5G>A,16,88710287,G,A,+,1,Maddirevula et al.,Skipping; r.144_282del:p.(Asp49Alafs*2),,88710223,88710282,,,skip
+NM_001012762.1:c.873G>A,16,88713447,G,A,+,1,Maddirevula et al. [PM26633546],Skipping; r.737_940del:p.(Arg246_Glu314delinsGln),Strauch: Changed ID from 'NM_001012762.1c.873G>A',88713312,88713447,,,skip
+NM_001142864.2:c.6963C>T,16,88716447,G,A,-,0,Wai et al.,,,,,,,normal
+NM_001142864.2:c.6651C>A,16,88717032,G,T,-,0,Wai et al.,,,,,,,normal
+NM_001256182.1:c.5511G>A,16,89281031,C,T,-,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_000135.2:c.709+2T>C,16,89805278,A,G,-,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000430.3:c.900+3A>G,17,2674291,A,G,+,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000430.3:c.1002+6T>A,17,2676612,T,A,+,1,Wai et al.,Upstream Skipped Exon,,2676505,2676606,,,skip
+NM_177550.3:c.231+2T>G,17,6707026,A,C,-,1,Maddirevula et al.,Skipping; r.103_231del:p.(Phe35_Gln77del),,6707156,6707028,,,skip
+NM_000546.5:c.1101-2A>C,17,7669692,T,G,-,1,MutSpliceDB,Intron inclusion between exons 10 & 11,,,,,,retention
+NM_000546.5:c.994-1G>A,17,7670716,C,T,-,1,MutSpliceDB,Intron inclusion between exons 9 & 10,,,,,,retention
+NM_000546.5:c.994-1G>C,17,7670716,C,G,-,1,MutSpliceDB,Intron inclusion between exons 9 & 10,,,,,,retention
+NM_000546.5:c.994-2A>G,17,7670717,T,C,-,1,MutSpliceDB,Intron inclusion between exons 9 & 10,,,,,,retention
+NM_000546.5:c.993+2T>G,17,7673533,A,C,-,1,MutSpliceDB,Intron inclusion between exons 9 & 10,,,,,,retention
+NM_000546.5:c.993+1G>A,17,7673534,C,T,-,1,MutSpliceDB,Intron inclusion between exons 9 & 10,,,,,,retention
+NM_000546.5:c.993+1G>T,17,7673534,C,A,-,1,MutSpliceDB,Intron inclusion between exons 9 & 10,,,,,,retention
+NM_000546.5:c.920-1G>A,17,7673609,C,T,-,1,MutSpliceDB,Intron inclusion between exons 8 & 9,,,,,,retention
+NM_000546.5:c.919+1G>C,17,7673700,C,G,-,1,MutSpliceDB,Intron inclusion between exons 8 & 9,,,,,,retention
+NM_000546.5:c.919+1G>T,17,7673700,C,A,-,1,MutSpliceDB,Intron inclusion between exons 8 & 9,,,,,,retention
+NM_000546.5:c.783-1G>T,17,7673838,C,A,-,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000546.5:c.783-2A>C,17,7673839,T,G,-,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000546.5:c.783-2A>T,17,7673839,T,A,-,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000546.4:c.783-60G>A,17,7673897,C,T,-,0,Wai et al.,,,,,,,normal
+NM_000546.5:c.782+1G>T,17,7674180,C,A,-,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000546.5:c.782G>C,17,7674181,C,G,-,1,MutSpliceDB,Intron inclusion between exons 7 & 8,,,,,,retention
+NM_000546.5:c.673-1G>A,17,7674291,C,T,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.673-2A>C,17,7674292,T,G,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.673-2A>G,17,7674292,T,C,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.673-2A>T,17,7674292,T,A,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.672+2T>G,17,7674857,A,C,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.672+1G>A,17,7674858,C,T,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.672+1G>T,17,7674858,C,A,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.672G>A,17,7674859,C,T,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.5:c.672G>T,17,7674859,C,A,-,1,MutSpliceDB,Intron inclusion between exons 6 & 7,,,,,,retention
+NM_000546.4:c.623A>G,17,7674908,T,C,-,0,Wai et al.,,,,,,,normal
+NM_000546.5:c.560-1G>A,17,7674972,C,T,-,1,MutSpliceDB,Intron inclusion between exons 5 & 6,,,,,,retention
+NM_000546.5:c.559+2T>A,17,7675051,A,T,-,1,MutSpliceDB,Intron inclusion between exons 5 & 6,,,,,,retention
+NM_000546.5:c.559+1G>A,17,7675052,C,T,-,1,MutSpliceDB,"Intron inclusion between exons 5 & 6, or skipping end of exon 5",Strauch: Excluded from variant effect analysis - multiple variant effects,,,,,multiple
+NM_000546.5:c.559G>C,17,7675053,C,G,-,1,MutSpliceDB,"Intron inclusion between exons 5 & 6, or skipping end of exon 5",,,,,,multiple
+NM_000546.5:c.376-1G>A,17,7675237,C,T,-,1,MutSpliceDB,"Intron inclusion between exons 4 & 5, or skipping beginning of exon 5",,,,,,multiple
+NM_000546.5:c.376-2A>G,17,7675238,T,C,-,1,MutSpliceDB,"Intron inclusion between exons 4 & 5, or skipping beginning of exon 5",,,,,,multiple
+NM_000546.5:c.376-2A>T,17,7675238,T,A,-,1,MutSpliceDB,"Intron inclusion between exons 4 & 5, or skipping beginning of exon 5",,,,,,multiple
+NM_000546.5:c.375+5G>A,17,7675989,C,T,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.375+2T>C,17,7675992,A,G,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.375+2T>G,17,7675992,A,C,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.375+1G>A,17,7675993,C,T,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.375+1G>T,17,7675993,C,A,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.375G>A,17,7675994,C,T,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.375G>T,17,7675994,C,A,-,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_000546.5:c.374C>T,17,7675995,G,A,-,0,MutSpliceDB,,,,,,,normal
+NM_000180.3:c.3043+5G>A,17,8015846,G,A,+,1,Ellingford et al. [100K],single exon skip: NM_000180.3:r.2945_3043del; dual exon skip: NM_000180.3:r.2945_3138del; intron inclusion: NM_000180.3:r.3043_3044ins3043+1_3043+85,,,,,,multiple
+NM_032354.3:c.274+1G>A,17,8175756,C,T,-,1,Maddirevula et al. [PM26123494 ],Retention; r.274_275ins274+1;p.Ser92Cysfs*7,,,,,,retention
+NM_005208.4:c.213C>T,17,29250298,C,T,+,1,Ellingford et al. [100K],exon truncation: NM_005208.4:r.212_215del,,,,,,unknown disruption
+NM_001128147.2:c.586+5G>A,17,31170002,G,A,+,1,Maddirevula et al.,Skipping; r.481_586del:p.(Leu161Lysfs*9),,31169891,31169997,,,skip
+NM_001042492.2:c.1062+3A>G,17,31200598,A,G,+,1,Wai et al.,Upstream Skipped Exon,,31200422,31200595,,,skip
+NM_000267.3:c.1641+1G>A,17,31219119,G,A,+,1,MutSpliceDB,Intron inclusion between exons 14 & 15,,,,,,retention
+NM_000267.3:c.4269+2T>C,17,31258504,T,C,+,1,MutSpliceDB,Intron inclusion between exons 31 & 32,,,,,,retention
+NM_001042492.2:c.7895A>G,17,31357294,A,G,+,1,Wai et al.,Downstream Skipped Exon,,31357269,31357369,,,skip
+NM_007294.2:c.5538G>A,17,43045732,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.5468-2A>G,17,43045804,T,C,-,1,Leman et al.,Use of a cryptic site 11 nt downstream from 3' ss,,43045802,,43045791,,alternative acceptor
+NM_007294.3:c.5468-5T>A,17,43045807,A,T,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: Lymphocytes without puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5468-5T>A; Houdayer et al.: NM_007294.2:c.5468-5T>A",,,,,normal
+NM_007294.3:c.5468-8G>A,17,43045810,C,T,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.5468-10C>A,17,43045812,G,T,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5468-10C>A; Houdayer et al.: NM_007294.2:c.5468-10C>A",,,,,normal
+NM_007294.3:c.5467+5G>C,17,43047638,C,G,-,1,Leman et al. [PM21394826],exon 23 skipped,Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped; also last exon,,,,,skip
+NM_007294.3:c.5467+2T>C,17,43047641,A,G,-,1,Leman et al.,Exon 23 skipped,Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped; also last exon,,,,,skip
+NM_007294.3:c.5467+1G>A,17,43047642,C,T,-,1,Leman et al.,Exon 23 skipped,Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped; also last exon,,,,,skip
+NM_007294.3:c.5467G>A,17,43047643,C,T,-,1,"Leman et al. [PM12915465, PM12034536]",exon 23 skipped,Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped; also last exon,,,,,skip
+NM_007294.3:c.5453A>G,17,43047657,T,C,-,1,"Houdayer et al., Wai et al.",Wai et al.: Upstream Skipped Exon; Houdayer et al.: Exon 23 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Wai et al.: NM_007294.3:c.5453A>G; Houdayer et al.: NM_007294.2:c.5453A>G; Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped; also last exon",,,,,skip
+NM_007294.2:c.5434C>G,17,43047676,G,C,-,1,Houdayer et al.,Exon 23 skipped,"Materials, Methods: PAXgene, Minigene; Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped; also last exon",,,,,skip
+NM_007294.3:c.5431C>A,17,43047679,G,T,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.5425G>T,17,43047685,C,A,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.5411T>A,17,43047699,A,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, LCL with puromycin",,,,,normal
+NM_007294.3:c.5408G>C,17,43047702,C,G,-,1,"Leman et al. [PM25724305, PM23239986]",exon 23 skipped,Strauch: Excluded from variant effect analysis - Exon 22 looks more likely to be skipped,,,,,skip
+NM_007294.3:c.5407G>T,17,43047703,C,A,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.5407-2A>G,17,43047705,T,C,-,1,"Leman et al. [PM12955719], MutSpliceDB",Leman et al. [PM12955719]: exon 23 skipped; MutSpliceDB: Intron inclusion between exons 20 & 21,Strauch: Multiple IDs: Leman et al. [PM12955719]: NM_007294.3:c.5407-2A>G; MutSpliceDB: NM_007297.3:c.5266-2A>G; Strauch: Excluded from variant effect analysis - Mismatching effect annotation,,,,,multiple
+NM_007294.2:c.5406+45C>A,17,43049076,G,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.5406+33A>T,17,43049088,T,A,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.5406+8T>C,17,43049113,A,G,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene, Minigene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5406+8T>C; Houdayer et al.: NM_007294.2:c.5406+8T>C",,,,,normal
+NM_007294.3:c.5406+5G>A,17,43049116,C,T,-,1,Leman et al. [PM9354803],exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.3:c.5406+5G>C,17,43049116,C,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 22 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5406+5G>C; Houdayer et al.: NM_007294.2:c.5406+5G>C",43047703,43047643,,,skip
+NM_007294.3:c.5406+4A>G,17,43049117,T,C,-,1,Leman et al. [PM23239986],exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.3:c.5406+3A>T,17,43049118,T,A,-,1,Leman et al. [PM23239986],exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.3:c.5406+2del,17,43049119,AC,C,-,1,Leman et al. [PM23239986],exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.3:c.5406+2T>G,17,43049119,A,C,-,1,Leman et al.,Exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.3:c.5406+1G>A,17,43049120,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 22 skipped,"Materials, Methods: LCL without puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5406+1G>A; Houdayer et al.: NM_007294.2:c.5406+1G>A",43047703,43047643,,,skip
+NM_007294.3:c.5334T>C,17,43049193,A,G,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene, Minigene, LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5334T>C; Houdayer et al.: NM_007294.2:c.5334T>C",,,,,normal
+NM_007294.3:c.5333A>G,17,43049194,T,C,-,0,"Leman et al. [PM25724305, PM21769658, PM23451180]",,,,,,,normal
+NM_007294.3:c.5333-1G>T,17,43049195,C,A,-,1,Leman et al. [PM23239986],exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.3:c.5333-3T>G,17,43049197,A,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 22 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5333-3T>G; Houdayer et al.: NM_007294.2:c.5333-3T>G",43047703,43047643,,,skip
+NM_007294.3:c.5333-6T>G,17,43049200,A,C,-,1,Leman et al. [PM11802209],exon 22 skipped,,43047703,43047643,,,skip
+NM_007294.2:c.5332+39C>T,17,43051024,G,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.5332+13G>T,17,43051050,C,A,-,0,"Houdayer et al., Wai et al.",No change,"Materials, Methods: PAXgene, Minigene; Strauch: Multiple IDs: Wai et al.: NM_007294.3:c.5332+13G>T; Houdayer et al.: NM_007294.2:c.5332+13G>T",,,,,normal
+NM_007294.3:c.5332+2T>A,17,43051061,A,T,-,1,Leman et al.,Exon 21 skipped,,43049194,43049121,,,skip
+NM_007294.3:c.5331_5332+1delinsCAACAT,17,43051062,CCT,ATGTTG,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 21 skipped,"Materials, Methods: stimulated T lymphocytes; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5331_5332+1delinsCAACAT; Houdayer et al.: NM_007294.2:c.5331_5332+1delinsCAACAT",43049194,43049121,,,skip
+NM_007294.3:c.5332+1G>A,17,43051062,C,T,-,1,Leman et al. [PM23451180],exon 21 skipped,,43049194,43049121,,,skip
+NM_007294.3:c.5332G>A,17,43051063,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 21 skipped,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5332G>A; Houdayer et al.: NM_007294.2:c.5332G>A",43049194,43049121,,,skip
+NM_007294.3:c.5332G>T,17,43051063,C,A,-,1,Leman et al. [PM25724305],exon 21 skipped,,43049194,43049121,,,skip
+NM_007294.3:c.5278-1G>A,17,43051118,C,T,-,1,Leman et al. [PM23239986],Use of a cryptic site 8 nt downstream from 3' ss and exon 21 skipped,,,,,,multiple
+NM_007294.3:c.5278-1G>C,17,43051118,C,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 21 skipped,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5278-1G>C; Houdayer et al.: NM_007294.2:c.5278-1G>C",43049194,43049121,,,skip
+NM_007294.3:c.5278-1G>T,17,43051118,C,A,-,1,Leman et al.,Exon 21 skipped and use of a cryptic site 8 nt downstream from 3' ss,,,,,,multiple
+NM_007294.3:c.5278-2del,17,43051119,TG,G,-,1,Leman et al. [PM23451180],Use of a cryptic site 8 nt downstream from 3' ss and exon 21 skipped,,,,,,multiple
+NM_007294.3:c.5278-6_5278-4del,17,43051121,GAAG,G,-,0,Leman et al. [PM12955719],,,,,,,normal
+NM_007294.2:c.5277+78G>A,17,43056974,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.5277+6G>C,17,43057046,C,G,-,0,Leman et al. [PM21735045],,,,,,,normal
+NM_007294.3:c.5277+1G>A,17,43057051,C,T,-,1,"Leman et al. [PM20215541, PM16211554, PM24667779], MutSpliceDB","Leman et al. [PM20215541, PM16211554, PM24667779]: Use of a cryptic site  87 nt upstream from 3' ss and exon 20 skipped; MutSpliceDB: Intron inclusion between exons 18 & 19","Variant with different raported splicing effect; Strauch: Multiple IDs: Leman et al. [PM20215541, PM16211554, PM24667779]: NM_007294.3:c.5277+1G>A; MutSpliceDB: NM_007297.3:c.5136+1G>A; Strauch: Excluded from variant effect analysis - Mismatching effect annotation; Leman is inconsistent between S1 and AllData tables",,,,,multiple
+NM_007294.3:c.5252G>A,17,43057077,C,T,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.5251C>A,17,43057078,G,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.5207T>C,17,43057122,A,G,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.5198A>G,17,43057131,T,C,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.5194-1G>T,17,43057136,C,A,-,1,Leman et al. [PM23239986],Use of a cryptic site 13 nt downstream from 3' ss and exon 20 skipped,,,,,,multiple
+NM_007294.3:c.5194-6T>C,17,43057141,A,G,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.5194-12G>A,17,43057147,C,T,-,1,"Leman et al. [PM21673748, PM21394826]",Use of a cryptic site 10 nt upstream from 3' ss,,43057135,,43057145,,alternative acceptor
+NM_007294.2:c.5193+64T>G,17,43063269,A,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.5193+2del,17,43063331,AC,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Exon 19 skipped and Exon 18 and 19 skipped; Houdayer et al.: Exon 19 skipped,"Materials, Methods: LCL without puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5193+2del; Houdayer et al.: NM_007294.2:c.5193+2delT; Strauch: Excluded from variant effect analysis - Mismatching effect annotation",,,,,skip
+NM_007294.3:c.5193+2T>G,17,43063331,A,C,-,1,Leman et al. [PM23239986],exon 19 skipped,Strauch: Excluded from variant effect analysis - Variant near exon 18 not 19,,,,,skip
+NM_007294.3:c.5193+1del,17,43063332,CC,C,-,1,Leman et al. [PM23239986],Use of a cryptic site 1 nt upstream from 5' ss,,,43063333,,43063334,alternative donor
+NM_007294.3:c.5157G>T,17,43063369,C,A,-,0,Wai et al.,Normal (monoallelic expession),,,,,,normal
+NM_007294.3:c.5154G>T,17,43063372,C,A,-,0,Leman et al. [PM25724305],,,,,,,normal
+NM_007294.3:c.5153G>C,17,43063373,C,G,-,0,Leman et al. [PM25724305],,,,,,,normal
+NM_007294.3:c.5153-1G>A,17,43063374,C,T,-,1,"Leman et al. [PM17262179, PM20215541]",Use of a cryptic site 1 nt downstream from 3' ss,,43063373,,43063372,,alternative acceptor
+NM_007294.3:c.5153-2del,17,43063375,TA,A,-,1,Leman et al. [PM23239986],exon 19 skipped,,43063373,43063333,,,skip
+NM_007294.3:c.5153-6C>A,17,43063379,G,T,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5153-6C>A; Houdayer et al.: NM_007294.2:c.5153-6C>A",,,,,normal
+NM_007294.2:c.5153-13A>G,17,43063386,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.5153-26A>G,17,43063399,T,C,-,1,Wai et al.,Downstream Skipped Exon,,43063373,43063333,,,skip
+NM_007294.2:c.5153-34T>G,17,43063407,A,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.2:c.5152+94T>G,17,43063780,A,C,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.5152+85delT,17,43063789,AA,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.3:c.5152+6T>C,17,43063868,A,G,-,1,Wai et al.,Upstream Skipped Exon,,43063951,43063874,,,skip
+NM_007294.3:c.5152+5G>A,17,43063869,C,T,-,1,Leman et al. [PM12955719],exon 18 skipped,Strauch: Excluded from variant effect analysis - Mismatching effect annotation of NM_007294.3:c.5152+5G>C,,,,,skip
+NM_007294.3:c.5152+5G>C,17,43063869,C,G,-,1,Wai et al.,Upstream Skipped Exon,Strauch: Excluded from variant effect analysis - Mismatching effect annotation of NM_007294.3:c.5152+5G>A,,,,,skip
+NM_007294.3:c.5152+1G>C,17,43063873,C,G,-,1,Leman et al. [PM23239986],exon 18 skipped,,43063373,43063333,,,skip
+NM_007294.3:c.5117G>A,17,43063909,C,T,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.5116G>A,17,43063910,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: stimulated T lymphocytes with puromycin",,,,,normal
+NM_007294.3:c.5096G>A,17,43063930,C,T,-,0,"Houdayer et al., Wai et al.",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Wai et al.: NM_007294.3:c.5096G>A; Houdayer et al.: NM_007294.2:c.5096G>A",,,,,normal
+NM_007294.2:c.5078_5080delCTG,17,43063946,CAGC,C,-,1,Houdayer et al.,exon 18 skipping,"Materials, Methods: PAXgene, LCL with puromycin",43063373,43063333,,,skip
+NM_007294.2:c.5080G>A,17,43063946,C,T,-,1,Houdayer et al.,Slight exon 18 skipping,"Materials, Methods: LCL with puromycin",43063373,43063333,,,skip
+NM_007294.3:c.5075-2A>G,17,43063953,T,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Exon 18 skipped; Houdayer et al.: Exon 18 skipped (inframe),"Materials, Methods: LCL without puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5075-2A>G; Houdayer et al.: NM_007294.2:c.5075-2A>G",43063373,43063333,,,skip
+NM_007294.3:c.5075-6C>A,17,43063957,G,T,-,0,"Wai et al., Leman et al.",,,,,,,normal
+NM_007294.3:c.5075-8T>G,17,43063959,A,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 7 nt upstream from 3' ss; Houdayer et al.: Use of a de novo site 7nt upstream from 3'ss,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5075-8T>G; Houdayer et al.: NM_007294.2:c.5075-8T>G",43063951,,43063958,,alternative acceptor
+NM_007294.3:c.5075-9A>T,17,43063960,T,A,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5075-9A>T; Houdayer et al.: NM_007294.2:c.5075-9A>T",,,,,normal
+NM_007294.2:c.5074+92T>C,17,43067516,A,G,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.5074+7C>T,17,43067601,G,A,-,0,Wai et al.,,"Strauch: In the original publication, this was incorrectly called NM_007294.3:c.5024C>T",,,,,normal
+NM_007294.3:c.5074+6C>G,17,43067602,G,C,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5074+6C>G; Houdayer et al.: NM_007294.2:c.5074+6C>G",,,,,normal
+NM_007294.3:c.5074+5A>T,17,43067603,T,A,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5074+5A>T; Houdayer et al.: NM_007294.2:c.5074+5A>T",,,,,normal
+NM_007294.3:c.5074+3A>G,17,43067605,T,C,-,1,Leman et al. [PM21735045],Use of a cryptic site 153 nt downstream from 5' ss and exon 17 skipped,,,,,,multiple
+NM_007294.3:c.5074+1G>A,17,43067607,C,T,-,1,Leman et al.,Exon 17 skipped and use of a cryptic site 153 nt downstream from 5' ss,,,,,,multiple
+NM_007294.3:c.5074+1G>T,17,43067607,C,A,-,1,"Leman et al. [PM15345110, PM24667779]",Use of a cryptic site 153 nt downstream from 5' ss,Variant with different raported splicing effect,,43067608,,43067455,alternative donor
+NM_007294.3:c.5074G>A,17,43067608,C,T,-,1,Leman et al. [PM25724305],Use of a cryptic site 153 nt downstream from 5' ss and exon 17 skipped,,,,,,multiple
+NM_007294.3:c.5074G>C,17,43067608,C,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Exon 17 skipped and use of a cryptic site 153 nt downstream from 5' ss; Houdayer et al.: Exon 17 skipped,"Materials, Methods: PAXgene LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5074G>C; Houdayer et al.: NM_007294.2:c.5074G>C",,,,,multiple
+NM_007294.3:c.5074G>T,17,43067608,C,A,-,1,Leman et al. [PM25724305],Use of a cryptic site 153 nt downstream from 5' ss and exon 17 skipped,,,,,,multiple
+NM_007294.3:c.5072C>A,17,43067610,G,T,-,0,Leman et al. [PM25724305],,,,,,,normal
+NM_007294.3:c.5072C>G,17,43067610,G,C,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.5072C>G; Houdayer et al.: NM_007294.2:c.5072C>G",,,,,normal
+NM_007294.3:c.5072C>T,17,43067610,G,A,-,1,Leman et al. [PM25724305],exon 17 skipping,,43063951,43063874,,,skip
+NM_007294.2:c.5071A>G,17,43067611,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: stimulated T lymphocytes with puromycin",,,,,normal
+NM_007294.2:c.5062_5064delGTT,17,43067618,AACA,A,-,0,Houdayer et al.,No change,"Materials, Methods: Xgene, Minigene",,,,,normal
+NM_007294.3:c.5024C>T,17,43067658,G,A,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.5017_5019delCAC,17,43067663,GTGG,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.4994T>A,17,43067688,A,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.4988T>A,17,43067694,A,T,-,1,Leman et al. [PM25724305],exon 17 skipping,,43063951,43063874,,,skip
+NM_007294.3:c.4987A>T,17,43067695,T,A,-,1,Leman et al. [PM25724305],exon 17 skipped,,43063951,43063874,,,skip
+NM_007294.3:c.4987-1G>A,17,43067696,C,T,-,1,Leman et al. [PM23451180],exon 17 skipped,,43063951,43063874,,,skip
+NM_007294.3:c.4987-2A>G,17,43067697,T,C,-,1,Leman et al. [PM21769658],exon 17 skipped,,43063951,43063874,,,skip
+NM_007294.3:c.4987-3C>G,17,43067698,G,C,-,1,Leman et al. [PM21638052],exon 17 skipped,,43063951,43063874,,,skip
+NM_007294.3:c.4987-4del,17,43067699,AA,A,-,1,Leman et al.,Exon 17 skipped,,43063951,43063874,,,skip
+NM_007294.3:c.4987-5T>A,17,43067700,A,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 17 skipped,"Materials, Methods: PAXgene, Minigene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4987-5T>A; Houdayer et al.: NM_007294.2:c.4987-5T>A",43063951,43063874,,,skip
+NM_007294.3:c.4987-6T>C,17,43067701,A,G,-,1,Leman et al.,Exon 17 skipped,,43063951,43063874,,,skip
+NM_007294.3:c.4987-11T>C,17,43067706,A,G,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.4986+6T>C,17,43070922,A,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 65 nt downstream from 5' ss; Houdayer et al.: Use of a cryptic site 65nt downstream of the 5'ss,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4986+6T>C; Houdayer et al.: NM_007294.2:c.4986+6T>C",,43070928,,43070863,alternative donor
+NM_007294.3:c.4986+6T>G,17,43070922,A,C,-,1,"Leman et al. [PM16619214, PM24667779]",Use of a cryptic site 65 nt downstream from 5' ss,Variant with different raported splicing effect,,43070928,,43070863,alternative donor
+NM_007294.3:c.4986+5G>A,17,43070923,C,T,-,1,"Leman et al. [PM23451180, PM23239986]",Use of a cryptic site 65 nt downstream from 5' ss,,,43070928,,43070863,alternative donor
+NM_007294.3:c.4986+5G>T,17,43070923,C,A,-,1,Leman et al. [PM18693280],Use of a cryptic site 65 nt downstream from 5' ss,,,43070928,,43070863,alternative donor
+NM_007294.3:c.4986+4A>G,17,43070924,T,C,-,1,Leman et al. [PM23239986],Use of a cryptic site 65 nt downstream from 5' ss,,,43070928,,43070863,alternative donor
+NM_007294.3:c.4986+3G>C,17,43070925,C,G,-,1,Leman et al.,Use of a cryptic site 65 nt downstream from 5' ss,,,43070928,,43070863,alternative donor
+NM_007294.3:c.4986+1G>T,17,43070927,C,A,-,1,Leman et al. [PM23451180],Use of a cryptic site 65 nt downstream from 5' ss,,,43070928,,43070863,alternative donor
+NM_007294.3:c.4985T>C,17,43070929,A,G,-,0,Leman et al. [PM25724305],,,,,,,normal
+NM_007294.2:c.4956G>A,17,43070958,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.4955_4956delinsAA,17,43070958,CA,TT,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.4868C>G,17,43071046,G,C,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_007294.2:c.4841C>T,17,43071073,G,A,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.2:c.4812A>G,17,43071102,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.4682C>T,17,43071232,G,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.3:c.4676-8C>G,17,43071246,G,C,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.4675+1G>A,17,43074330,C,T,-,1,"Leman et al. [PM21394826, PM18489799]",Use of a cryptic site 11 nt upstream from 5' ss and exon 15 skipped,Variant with different raported splicing effect,,,,,multiple
+NM_007294.3:c.4675G>A,17,43074331,C,T,-,1,Leman et al. [PM23239986],Use of a cryptic site 11 nt upstream from 5' ss,,,43074331,,43074342,alternative donor
+NM_007294.3:c.4675G>C,17,43074331,C,G,-,1,Leman et al.,Exon 15 skipped,,43071238,43070928,,,skip
+NM_007294.2:c.4653T>C,17,43074353,A,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.4636G>A,17,43074370,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.4485-1G>C,17,43074522,C,G,-,1,Leman et al.,Exon 15 skipped,,43071238,43070928,,,skip
+NM_007294.3:c.4484+15T>C,17,43076473,A,G,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.4484+14A>G,17,43076474,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.4484+1G>A,17,43076487,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 14 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4484+1G>A; Houdayer et al.: NM_007294.2:c.4484+1G>A",43074521,43074331,,,skip
+NM_007294.3:c.4484+1G>T,17,43076487,C,A,-,1,Leman et al. [PM21735045],exon 14 skipped,,43074521,43074331,,,skip
+NM_007294.3:c.4484G>A,17,43076488,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 14 skipped,"Materials, Methods: PAXgene LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4484G>A; Houdayer et al.: NM_007294.2:c.4484G>A",43074521,43074331,,,skip
+NM_007294.3:c.4484G>C,17,43076488,C,G,-,1,Leman et al. [PM24489791],"exon 14 skipped and exon 14, 15 skipped",,,,,,skip
+NM_007294.3:c.4484G>T,17,43076488,C,A,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 14 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4484G>T; Houdayer et al.: NM_007294.2:c.4484G>T",43074521,43074331,,,skip
+NM_007294.2:c.4445A>G,17,43076527,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.4393A>G,17,43076579,T,C,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.4358-2del,17,43076616,TT,T,-,0,Leman et al. [PM21769658],,,,,,,normal
+NM_007294.3:c.4358-10C>T,17,43076624,G,A,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4358-10C>T; Houdayer et al.: NM_007294.2:c.4358-10C>T",,,,,normal
+NM_007294.3:c.4358-31_4358-27del,17,43076641,TACTTT,T,-,1,Wai et al.,Downstream Skipped Exon,,,,,,skip
+NM_007294.2:c.4357+59C>A,17,43082345,G,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.4357+10G>A,17,43082394,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.4357+6T>C,17,43082398,A,G,-,1,"Wai et al., Leman et al. [PM7493024]",Wai et al.: Upstream Skipped Exon; Leman et al. [PM7493024]: exon 13 skipped,,43076614,43076488,,,skip
+NM_007294.3:c.4357+1dup,17,43082402,A,AC,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 1 nt downstream from 3' ss; Houdayer et al.: Use of a de novo site 1nt downstream from 5'ss,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4357+1dup; Houdayer et al.: NM_007294.2:c.4357+1dupG; Strauch: Variant effect assumed to affect donor",,43082404,,43082403,alternative acceptor
+NM_007294.3:c.4357+1del,17,43082403,CC,C,-,1,Leman et al. [PM21735045],exon 13 skipped,,43076614,43076488,,,skip
+NM_007294.3:c.4357+1G>A,17,43082403,C,T,-,1,Leman et al. [PM21769658],exon 13 skipped,,43076614,43076488,,,skip
+NM_007294.3:c.4357+1G>T,17,43082403,C,A,-,1,Leman et al. [PM21735045],exon 13 skipped,,43076614,43076488,,,skip
+NM_007294.3:c.4343G>A,17,43082418,C,T,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.4185+2_4185+22delinsA,17,43090922,CACACACACACACGCTTTTTA,T,-,1,Leman et al. [PM12938098],exon 12 skipped,,43082575,43082404,,,skip
+NM_007294.3:c.4185_4185+3del,17,43090941,TACCT,T,-,1,Leman et al. [PM21769658],exon 12 skipped,,43082575,43082404,,,skip
+NM_007294.3:c.4185+3A>T,17,43090941,T,A,-,1,Leman et al.,Exon 12 skipped,,43082575,43082404,,,skip
+NM_007294.3:c.4185G>A,17,43090944,C,T,-,1,"Leman et al. [PM12759930, PM23239986, PM7493024]",exon 12 skipped,,43082575,43082404,,,skip
+NM_007294.3:c.4185G>C,17,43090944,C,G,-,1,Leman et al.,Exon 12 skipped,,43082575,43082404,,,skip
+NM_007294.3:c.4097G>A,17,43091032,C,T,-,0,Leman et al. [PM23451180],,,,,,,normal
+NM_007294.3:c.4097-2A>G,17,43091034,T,C,-,1,Leman et al.,Use of a cryptic site 1 nt upstream from 3' ss,,43091032,,43091033,,alternative acceptor
+NM_007294.3:c.4097-11T>C,17,43091043,A,G,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.4097-11T>C; Houdayer et al.: NM_007294.2:c.4097-11T>C",,,,,normal
+NM_007294.2:c.4097-29C>T,17,43091061,G,A,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.4096+3A>G,17,43091432,T,C,-,1,Leman et al. [PM23239986],Use of a cryptic site 3309 nt upstream from 5' ss,,,43091435,,43094744,alternative donor
+NM_007294.3:c.4096+1G>A,17,43091434,C,T,-,1,Leman et al. [PM17011978],Use of a cryptic site 3309 nt upstream from 5' ss,,,43091435,,43094744,alternative donor
+NM_007294.3:c.3845A>T,17,43091686,T,A,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.3047A>G,17,43092484,T,C,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.1731A>G,17,43093800,T,C,-,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_007294.3:c.671-2A>C,17,43094862,T,G,-,1,Leman et al. [PM14513821],"exons 10, 11 skipped and exons 9_11 skipped",,,,,,skip
+NM_007294.3:c.670+8C>T,17,43095838,G,A,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.670+1delG,17,43095845,CC,C,-,1,Leman et al. [PM24667779],Use of a cryptic site 1 nt upstream from 5' ss,,,43095846,,43095847,alternative donor
+NM_007294.3:c.668A>G,17,43095848,T,C,-,1,Leman et al. [PM23239986],exon 10 skipped,,43094860,43091435,,,skip
+NM_007294.3:c.612G>C,17,43095904,C,G,-,0,"Houdayer et al., Wai et al.",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Wai et al.: NM_007294.3:c.612G>C; Houdayer et al.: NM_007294.2:c.612G>C",,,,,normal
+NM_007294.3:c.594-2A>C,17,43095924,T,G,-,1,"Leman et al. [PM9115959, PM16211554]",exon 10 skipped,,43094860,43091435,,,skip
+NM_007294.3:c.594-4A>G,17,43095926,T,C,-,0,Leman et al. [PM23451180],,,,,,,normal
+NM_007294.2:c.594-15G>C,17,43095937,C,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.2:c.594-34T>C,17,43095956,A,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.593+8A>G,17,43097236,T,C,-,0,Leman et al. [PM16619214],,,,,,,normal
+NM_007294.3:c.593+4A>G,17,43097240,T,C,-,1,Leman et al. [PM21394826],exon 9 skipped,,43095922,43095846,,,skip
+NM_007294.3:c.593+3G>A,17,43097241,C,T,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.591C>T,17,43097246,G,A,-,1,Leman et al. [Houdayer et al.],Exon 9 and exon 9 and 10 skipped,,,,,,skip
+NM_007294.2:c.588T>C,17,43097249,A,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.557C>A,17,43097280,G,T,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.2:c.552T>C,17,43097285,A,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.3:c.548-3del,17,43097292,AA,A,-,0,"Leman et al. [PM23451180, PM21769658]",,,,,,,normal
+NM_007294.2:c.548-17G>T,17,43097306,C,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.3:c.547+7G>A,17,43099768,C,T,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.547+7G>A; Houdayer et al.: NM_007294.2:c.547+7G>A",,,,,normal
+NM_007294.3:c.547+6G>A,17,43099769,C,T,-,0,Leman et al. [PM21673748],,,,,,,normal
+NM_007294.3:c.547+3A>T,17,43099772,T,A,-,1,Leman et al.,Exon 8 skipped,,43097289,43097244,,,skip
+NM_007294.3:c.547+2T>A,17,43099773,A,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 8 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.547+2T>A; Houdayer et al.: NM_007294.2:c.547+2T>A",43097289,43097244,,,skip
+NM_007294.3:c.547+2T>C,17,43099773,A,G,-,1,Leman et al. [PM10479726],exon 8 skipped,,43097289,43097244,,,skip
+NM_007294.2:c.536A>G,17,43099786,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.509G>A,17,43099813,C,T,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.448A>G,17,43099874,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.442-3T>G,17,43099883,A,C,-,1,Leman et al. [Houdayer et al.],Use of a cryptic site 3 nt downstream from 5' ss,Strauch: Excluded from variant effect analysis - no sensible ALT motif,,,,,alternative donor
+NM_007294.2:c.442-16T>G,17,43099896,A,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.2:c.442-25G>A,17,43099905,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.2:c.441+51T>C,17,43104071,A,G,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.2:c.441+18C>T,17,43104104,G,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.441+2T>A,17,43104120,A,T,-,1,Leman et al. [PM21769658],Use of a cryptic site 62 nt upstream from 5' ss,,,43104122,,43104184,alternative donor
+NM_007294.3:c.441+2T>G,17,43104120,A,C,-,1,Leman et al. [PM23451180],Use of a cryptic site 62 nt upstream from 5' ss,,,43104122,,43104184,alternative donor
+NM_007294.3:c.441+1G>A,17,43104121,C,T,-,1,"Leman et al. [PM16619214, PM24667779]",Use of a cryptic site 62 nt upstream from 5' ss and exon 7 skipped,,,,,,multiple
+NM_007294.2:c.429A>C,17,43104134,T,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.416A>G,17,43104147,T,C,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.302-1G>A,17,43104262,C,T,-,1,Leman et al. [PM18712473],exon 7 skipped,,43099880,43099775,,,skip
+NM_007294.3:c.302-2del,17,43104263,TG,G,-,1,Leman et al. [PM16619214],Use of a cryptic site 10 nt downstream from 3' ss,,43104261,,43104251,,alternative acceptor
+NM_007294.3:c.302-3C>G,17,43104264,G,C,-,1,"Leman et al. [PM18489799, PM20215541]",Use of a cryptic site 2 nt upstream from 3' ss,,43104261,,43104263,,alternative acceptor
+NM_007294.3:c.302-5T>C,17,43104266,A,G,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.301+7G>A,17,43104861,C,T,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.301+7G>A; Houdayer et al.: NM_007294.2:c.301+7G>A",,,,,normal
+NM_007294.3:c.301+6T>C,17,43104862,A,G,-,1,Leman et al. [PM21769658],Use of a cryptic site 9 nt upstream from 5' ss,,,43104868,,43104877,alternative donor
+NM_007294.3:c.301+1G>C,17,43104867,C,G,-,1,Leman et al.,Use of a cryptic site 9 nt upstream from 5' ss,,,43104868,,43104877,alternative donor
+NM_007294.3:c.286G>A,17,43104883,C,T,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.286G>C,17,43104883,C,G,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.255G>A,17,43104914,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.231G>A,17,43104938,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.3:c.213-1G>A,17,43104957,C,T,-,1,Leman et al. [PM24667779],Use of a cryptic site 59 nt upstream from 3' ss,,43104956,,43105015,,alternative acceptor
+NM_007294.3:c.213-2A>C,17,43104958,T,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 59 nt upstream from 3' ss; Houdayer et al.: Use of a cryptic site 59nt upstream from 3'ss,"Materials, Methods: several experiments for the same mutation: PAXgene, LCL with puromycin, lymphocytes without puromycin, lymphocytes with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.213-2A>C; Houdayer et al.: NM_007294.2:c.213-2A>C",43104956,,43105015,,alternative acceptor
+NM_007294.3:c.213-2A>G,17,43104958,T,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 59 nt upstream from 3' ss; Houdayer et al.: Use of the cryptic site 59nt upstream from 3'ss,"Materials, Methods: LCL without puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.213-2A>G; Houdayer et al.: NM_007294.2:c.213-2A>G",43104956,,43105015,,alternative acceptor
+NM_007294.3:c.213-5T>G,17,43104961,A,C,-,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_007294.3:c.213-11T>G,17,43104967,A,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 59 nt upstream from 3' ss; Houdayer et al.: Use of a cryptic site 60 nt upstream from 3'ss,"Materials, Methods: PAXgene, Minigene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.213-11T>G; Houdayer et al.: NM_007294.2:c.213-11T>G; Strauch: Variant effect assumed to be 59nt upstream",43104956,,43105015,,alternative acceptor
+NM_007294.3:c.213-12A>G,17,43104968,T,C,-,1,"Leman et al. [PM9805131, PM21735045]",Use of a cryptic site 11 nt upstream from 3' ss,,43104956,,43104967,,alternative acceptor
+NM_007294.3:c.213-14C>G,17,43104970,G,C,-,1,Wai et al.,Intronic Alternative 3' Splice Site,,,,,,alternative acceptor
+NM_007294.2:c.213-15A>G,17,43104971,T,C,-,1,Houdayer et al.,Use of the cryptic site 59nt upstream from 3'ss,"Materials, Methods: PAXgene",43104956,,43105015,,alternative acceptor
+NM_007294.2:c.212+23T>A,17,43106433,A,T,-,0,Houdayer et al.,No change,"Materials, Methods: LCL without puromycin",,,,,normal
+NM_007294.3:c.212+3A>G,17,43106453,T,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 22 nt upstream from 5' ss; Houdayer et al.: Use of a cryptic site 22nt upstream from 5'ss,"Materials, Methods: PAXgene, Minigene, LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.212+3A>G; Houdayer et al.: NM_007294.2:c.212+3A>G",,43106456,,43106478,alternative donor
+NM_007294.3:c.212+2T>C,17,43106454,A,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 22 nt upstream from 5' ss; Houdayer et al.: Use of the cryptic site 22nt upstream from 5'ss,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.212+2T>C; Houdayer et al.: NM_007294.2:c.212+2T>C",,43106456,,43106478,alternative donor
+NM_007294.3:c.212+1G>A,17,43106455,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 22 nt upstream from 5' ss; Houdayer et al.: Use of a cryptic site 22nt upstream from 5'ss,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.212+1G>A; Houdayer et al.: NM_007294.2:c.212+1G>A",,43106456,,43106478,alternative donor
+NM_007294.3:c.212+1G>C,17,43106455,C,G,-,1,Leman et al. [PM23239986],Use of a cryptic site 22 nt upstream from 5' ss,,,43106456,,43106478,alternative donor
+NM_007294.3:c.212+1G>T,17,43106455,C,A,-,1,Leman et al.,Use of a cryptic site 22 nt upstream from 5' ss,,,43106456,,43106478,alternative donor
+NM_007294.3:c.211dup,17,43106456,C,CT,-,0,Leman et al. [Houdayer et al.],,,,,,,alternative donor
+NM_007294.3:c.212G>A,17,43106456,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 22 nt upstream from 5' ss; Houdayer et al.: Use of a cryptic site 22nt upstream from 5'ss,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.212G>A; Houdayer et al.: NM_007294.2:c.212G>A",,43106456,,43106478,alternative donor
+NM_007294.3:c.212G>T,17,43106456,C,A,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,normal
+NM_007294.3:c.211A>G,17,43106457,T,C,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Exon 5 skipped and use of a cryptic site 22 nt upstream from 5' ss; Houdayer et al.: Exon 5 skipped and use of a cryptic site 22nt upstream from 5'ss,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.211A>G; Houdayer et al.: NM_007294.2:c.211A>G",,,,,multiple
+NM_007294.2:c.199G>T,17,43106469,C,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.2:c.191G>A,17,43106477,C,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.189A>T,17,43106479,T,A,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.140G>T,17,43106528,C,A,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.135-1G>C,17,43106534,C,G,-,1,"Leman et al. [PM16211554, PM23239986]",exon 5 skipped,Strauch: Excluded from variant effect analysis - Variant near exon 4 not 5,,,,,skip
+NM_007294.3:c.135-6T>G,17,43106539,A,C,-,1,Leman et al. [PM12759930],exon 5 skipped,Strauch: Excluded from variant effect analysis - Variant near exon 4 not 5,,,,,skip
+NM_007294.3:c.135-15_135-12del,17,43106545,AAAGA,A,-,0,Leman et al. [PM18693280],,,,,,,normal
+NM_007294.3:c.134+3_134+6del,17,43115720,ACTTA,A,-,1,Leman et al. [PM23451180],exon 3 skipped,,43115779,43115726,,,skip
+NM_007294.3:c.134+3A>C,17,43115723,T,G,-,1,Leman et al.,Exon 3 skipped,,43115779,43115726,,,skip
+NM_007294.3:c.134+3A>T,17,43115723,T,A,-,1,Wai et al.,Upstream Skipped Exon,,43115779,43115726,,,skip
+NM_007294.3:c.134+1G>A,17,43115725,C,T,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Exon 3 skipped,"Materials, Methods: LCL with puromycin; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.134+1G>A; Houdayer et al.: NM_007294.2:c.134+1G>A",43115779,43115726,,,skip
+NM_007294.3:c.133A>C,17,43115727,T,G,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.132C>T,17,43115728,G,A,-,1,Leman et al. [PM24667779],Use of a cryptic site 4 nt upstream from 5' ss,,,43115726,,43115730,alternative donor
+NM_007294.2:c.110C>G,17,43115750,G,C,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.81-1G>C,17,43115780,C,G,-,1,"Houdayer et al., Leman et al. [Houdayer et al.]",Leman et al. [Houdayer et al.]: Use of a cryptic site 7 nt downstream from 3' ss; Houdayer et al.: Use of a cryptic site 7nt downstream from 3'ss,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.81-1G>C; Houdayer et al.: NM_007294.2:c.81-1G>C",43115779,,43115772,,alternative acceptor
+NM_007294.3:c.81-6T>A,17,43115785,A,T,-,1,Leman et al. [PM18693280],Use of a cryptic site 2 nt upstream from 3' ss,Strauch: Excluded from variant effect analysis - no sensible ALT motif,,,,,alternative acceptor
+NM_007294.3:c.81-6T>C,17,43115785,A,G,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.81-9C>G,17,43115788,G,C,-,1,Leman et al. [PM20614180],Use of a cryptic site 8 nt upstream from 3' ss,,43115779,,43115787,,alternative acceptor
+NM_007294.3:c.81-11del,17,43115790,AG,G,-,0,Leman et al. [PM21735045],,,,,,,normal
+NM_007294.3:c.81-12C>G,17,43115791,G,C,-,0,Leman et al.,,,,,,,normal
+NM_007294.3:c.81-12del,17,43115791,GG,G,-,0,"Houdayer et al., Leman et al. [Houdayer et al.]",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Leman et al. [Houdayer et al.]: NM_007294.3:c.81-12del; Houdayer et al.: NM_007294.2:c.81-12delC",,,,,normal
+NM_007294.2:c.81-13C>A,17,43115792,G,T,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.2:c.81-13C>G,17,43115792,G,C,-,0,Houdayer et al.,No change,"Materials, Methods: LCL with puromycin",,,,,normal
+NM_007294.3:c.81-14C>T,17,43115793,G,A,-,0,"Houdayer et al., Wai et al.",No change,"Materials, Methods: PAXgene; Strauch: Multiple IDs: Wai et al.: NM_007294.3:c.81-14C>T; Houdayer et al.: NM_007294.2:c.81-14C>T",,,,,normal
+NM_007294.2:c.81-49A>C,17,43115828,T,G,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene, Minigene",,,,,normal
+NM_007294.3:c.81-65G>C,17,43115844,C,G,-,0,"Houdayer et al., Wai et al.",No change,"Materials, Methods: PAXgene, Minigene; Strauch: Multiple IDs: Wai et al.: NM_007294.3:c.81-65G>C; Houdayer et al.: NM_007294.2:c.81-65G>C",,,,,normal
+NM_007294.3:c.80+3_80+6del,17,43124011,ACTTA,A,-,1,Leman et al. [PM19011960],exon 2 skipped,,43124115,43124017,,,skip
+NM_007294.3:c.80+1G>A,17,43124016,C,T,-,1,Leman et al. [PM17011978],exon 2 skipped,,43124115,43124017,,,skip
+NM_007294.3:c.36A>G,17,43124061,T,C,-,0,Wai et al.,,,,,,,normal
+NM_007294.2:c.21C>T,17,43124076,G,A,-,0,Houdayer et al.,No change,"Materials, Methods: PAXgene",,,,,normal
+NM_007294.3:c.19C>T,17,43124078,G,A,-,0,Wai et al.,,,,,,,normal
+NM_007294.3:c.-19-10T>C,17,43124125,A,G,-,0,Leman et al. [PM10459348],,,,,,,normal
+NM_000342.4:c.1282+5G>C,17,44257981,C,G,-,1,Maddirevula et al.,Skipping; r.1015_1210del:p.(Tyr339Alafs*6),,44258180,44257986,,,skip
+NM_015443.3:c.2725-5T>G,17,46033197,A,C,-,1,Wai et al.,Downstream Skipped Exon,,46033192,46033080,,,skip
+NM_015443.3:c.1848G>A,17,46066537,C,T,-,1,Wai et al.,Exonic Alternative 5' Splice Site,,,,,,alternative donor
+NM_000023.2:c.584+5G>A,17,50168577,G,A,+,1,Maddirevula et al.,Skipping; r.585_747del:p.(Val196Trpfs*71),,50168374,50168572,,,skip
+NM_000088.3:c.2127+2T>A,17,50191786,A,T,-,1,Maddirevula et al.,Skipping; r.2029_2127del:p.(Glu678_Gly710del),,50191886,50191788,,,skip
+NM_001168215:c.95+3A>G,17,50277743,A,G,+,1,Maddirevula et al.,Retention; r.94_95ins94+1_95+197:p.(Ala33Cysfs*11),,,,,,retention
+NM_000213.3:c.3793+1G>C,17,75751112,G,C,+,1,Maddirevula et al.,Skipping; r.3744_3793del:p.(Glu1249Thrfs*11),,75750974,75751111,,,skip
+NM_001080510.3:c.322+2T>C,17,76733217,T,C,+,1,Maddirevula et al.,Skipping; r.84+1_322+1del:p.(Ile29PhefsTer2),,76732978,76733215,,,skip
+NM_005993.4:c.1922G>C,17,82906053,G,C,+,1,Wai et al.,Triple Skipped Exon upstream and downstream,,,,,,skip
+NM_017653.3:c.1860+1G>A,18,49097401,C,T,-,1,Maddirevula et al.,Skipping; r.1747_1859del:p.(Val583Glufs*87),,49097515,49097402,,,skip
+NM_173630.3:c.5746-20A>G,18,70028821,T,C,-,1,Maddirevula et al.,Skipping; r.5746_5823del:p.(Asp1917_Glu1942del),,70028801,70028724,,,skip
+NM_173630.3:c.2885+8A>G,18,70135176,T,C,-,1,Maddirevula et al. [PM26608784],Retention; r.2885_2886ins2885+1_2885+7:p.(Ser963*),,,,,,retention
+NM_001128844.1:c.2617-1G>A,19,11021724,G,A,+,1,MutSpliceDB,Intron inclusion between exons 19 & 20,,,,,,retention
+NM_001128844.1:c.3952-1G>C,19,11034913,G,C,+,1,MutSpliceDB,Intron inclusion between exons 29 & 30,,,,,,retention
+NM_020812.3:c.4107-1G>C,19,11214650,C,G,-,1,Maddirevula et al. [PM23522784],Skipping; r.4108_4114del:p.(Thr1370Metfs*19),,11214649,11214553,,,skip
+NM_016145.3:c.156+1G>T,19,12669127,C,A,-,1,Maddirevula et al. [PM30250217],Skipping; r.51_156del:p.(Arg17Serfs*2),,12669233,12669128,,,skip
+NM_013976.2:c.853-2A>G,19,12896908,A,G,+,1,Maddirevula et al.,Skipping; r.637_852del:p.(Ile213_Gly284del),,12896910,12897013,,,skip
+NM_017721.4:c.748+1G>T,19,13913639,G,T,+,1,Maddirevula et al. [PM25066123],Skipping; r.514_988del:p.?,,13913404,13913638,,,skip
+NM_019108.2:c.701+4A>G,19,43744768,T,C,-,1,Maddirevula et al. [PM27018474],Skipping; r.589_701del:p.(Tyr197Aspfs*10),,43744884,43744772,,,skip
+NM_000483.4:c.216-1G>A,19,44949158,G,A,+,1,Maddirevula et al.,Skipping; r.217delG:p.(Asp73Thrfs*10),Strauch: Excluded from variant effect analysis - last exon of transcript,,,,,skip
+NM_007254.3:c.1029+2T>C,19,49862369,A,G,-,1,Wai et al.,Upstream Skipped Exon,,49862463,49862371,,,skip
+NM_007254.3:c.578+4A>G,19,49864320,T,C,-,1,Wai et al.,Intronic Alternative 5' Splice Site,,,,,,alternative donor
+NM_001308632.1:c.1620C>T,19,50407108,C,T,+,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_002691.3:c.2389-2A>T,19,50414813,A,T,+,1,MutSpliceDB,Intron inclusion between exons 19 & 20,,,,,,retention
+NM_015629.3:c.528-38C>T,19,54123711,C,T,+,0,Ellingford et al. [100K],,,,,,,normal
+NM_018848.3:c.803T>G,20,10412712,A,C,-,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_018848.3:c.749G>A,20,10412766,C,T,-,0,Wai et al.,Normal (single exon RT-PCR),,,,,,normal
+NM_015600.4:c.867+5G>A,20,25307961,C,T,-,1,Ellingford et al. [100K],exon skip: NM_015600.4:r.788_867del,,25308045,25307966,,,skip
+NM_001271441.1:c.1000-23A>T,21,44330349,T,A,-,1,Maddirevula et al.,Retention; r.1000_10001ins:p.N215Vfs*260,,,,,,retention
+NM_004928.2:c.545+1G>A,21,44331842,C,T,-,1,Maddirevula et al.,Retention; r.542_546del:p.(Ala181Glufs*6),,,,,,retention
+NM_058175.2:c.1332+2T>C,21,46119852,T,C,+,1,Maddirevula et al.,Skipping; r.1270_1332del:p.(Arg425_Gly445del),,46119788,46119850,,,skip
+NM_001849.3:c.1459-63G>A,21,46121493,G,A,+,0,Maddirevula et al.,,,,,,,normal
+NM_001849.3:c.2422+1G>A,21,46126238,G,A,+,1,Maddirevula et al. [PM21035572],Retention; r.2421_2422ins2421+1_2121+59,,,,,,retention
+NM_001127649.2:c.228C>T,22,18078604,C,T,+,1,Maddirevula et al.,Skipping; r.227_230del:p.(Gly76Alafs*5),Strauch: Removed annotation 'p.(=)' from ID; Strauch: Excluded from variant effect analysis: First exon of transcript,,,,,skip
+NM_003073.3:c.362+1G>C,22,23793689,G,C,+,1,MutSpliceDB,Intron inclusion between exons 3 & 4,,,,,,retention
+NM_003073.3:c.500+1G>A,22,23801082,G,A,+,1,MutSpliceDB,Intron inclusion between exons 4 & 5,,,,,,retention
+NM_001166019.1:c.38-1G>A,22,29363107,C,T,-,1,Maddirevula et al. [PM31630791],Skipping; r.40delG:p.(Glu14Argfs*5),,29363106,29363001,,,skip
+NM_000268.3:c.363+1G>A,22,29639213,G,A,+,1,MutSpliceDB,Intron inclusion between exons 3 & 4,,,,,,retention
+NM_001098.2:c.526-642C>T,22,41514735,C,T,+,0,Ellingford et al. [100K],,,,,,,normal
+NM_001034853.1:c.1754-3G>C,X,38287248,G,C,-,1,Ellingford et al. [100K],"exon skip: NM_000328.2:r.1754_1905del, NM_001034853.1:r.1754_3459del",Strauch: Excluded from variant effect analysis - first exon in transcript,,,,,skip
+NM_001034853.1:c.247G>T,X,38322853,C,A,-,1,Ellingford et al. [100K],exon skip: NM_001034853.1:r.155_247del,,38322945,38322853,,,skip
+NM_001399.4:c.957C>G,X,70035390,C,G,+,0,Wai et al.,,,,,,,normal
+NM_001286074.1:c.488C>A,X,71375242,C,A,+,0,Wai et al.,,,,,,,normal
+NM_004208.3:c.697-27T>G,X,130140644,A,C,-,1,Wai et al.,Downstream Skipped Exon,,130140617,130140533,,,skip
+NM_173694.4:c.1675+2T>C,X,139785224,A,G,-,1,Maddirevula et al.,Skipping; r.1602_1675del:p.(Tyr535Argfs*7),,139785299,139785226,,,skip
+NM_001110556.1:c.2747A>T,X,154362058,T,A,-,0,Wai et al.,,,,,,,normal
+NM_001363.3:c.915+10G>A,X,154769320,G,A,+,1,Wai et al.,Intronic Alternative 5' Splice Site,,,,,,alternative donor

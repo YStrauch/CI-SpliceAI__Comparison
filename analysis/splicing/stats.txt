@@ -1,0 +1,4 @@
+In total, SpliceAI mispredicts 15 sites; CI-SpliceAI (ALL) mispredicts 4 sites; CI-SpliceAI (TRAIN) mispredicts 6 sites
+SpliceAI has 6 false negatives and 9 false positives
+CI-SpliceAI (ALL) has 4 false negatives and 0 false positives
+CI-SpliceAI (TRAIN) has 6 false negatives and 0 false positives

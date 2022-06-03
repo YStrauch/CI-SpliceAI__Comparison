@@ -1,0 +1,1 @@
+SQUIRLS,MES (Sliding),MMSplice (Pathogenicity),SpliceAI,MMSplice (Splicing Efficiency),CI-SpliceAI,MES (VEP)
